@@ -1011,7 +1011,7 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELESISTEMA  
-http://home-playtv.com:8080/geoiptv/QPZMN@@a9/12904
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="05 | REPRETEL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXDVABuqWZOU_PWrDSMCgKZBpK1mbgqkdJw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| rttv
 https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="07 | STV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMtwaot_x4CyP8_4iGEcio9aHrmK_R-HEA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| STV  
