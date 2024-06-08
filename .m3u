@@ -265,6 +265,8 @@ http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/2449.m3u8
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ (colombia)
 http://200.59.188.3:8000/play/a028
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ opc.2 (colombia)
+http://tv.soccerplus.link:8000/bross2023/73js8t3ge63/70672
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt4RZ_1QOupYwN8NGj1d3lrWZ58y94i1Abg&usqp=CAU " group-title=" ⚽ Deportes ", vtv plus (uruguay)
 http://daleplay.club:80/CompaBel24/4499xtream/52836.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU " group-title="⚽ Deportes ",  direc tv sports (argentina)
