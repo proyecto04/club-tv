@@ -308,7 +308,7 @@ http://190.102.242.130:25461/multicontenido/1234/132,
 http://190.102.242.130:25461/multicontenido/1234/1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHX_NDi86x2qIx2n20c0ZgrQzrr_Lo2FzTXes-8pXRQ&s=CAU" group-title="⭐️ Infantiles",INF| adult swim 
 http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/2449.m3u8
-
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/554.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deportes ",WIN SPORTS (colombia)
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ (colombia)
@@ -336,7 +336,7 @@ http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYL0s4wVkOl0XOSkcS0UgEPguLc-_WxZMFg&usqp=CAU " group-title="⚽ Deportes ", fox 3 (argentina)
 http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZHIRY87FCdZ78fmGdSHN1zIRApUP-Le_uw&usqp=CAU"  group-title="⚽ Deportes ", tyc SPORTS (argentina)
-http://mstrtv.com:25461/live/3N1gma2/4h51akrHnt/127555.m3u8
+
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJC5xBIRwcpgZS-cpdXcVTOowFGDSqhxzrw&usqp=CAU" group-title="⚽ Deportes ", TyC sports play (argentina)
 https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk56fDBqBbFatAYrQLG9XNQXSdSehcqUpndg&usqp=CAU" group-title="⚽ Deportes ",  TNT Sports (argentina)
