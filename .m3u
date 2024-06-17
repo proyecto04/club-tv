@@ -326,7 +326,7 @@ http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/50087.m3
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU " group-title="⚽ Deportes",  espn 2 (argentina)
 http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/18192
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU " group-title="⚽ Deportes",  espn 3 (argentina)
-http://217.182.213.252:8080/play/hls/eyJpdiI6IkpHSE9TOVVyUFZLSnlHUEl3RHcxc0E9PSIsInZhbHVlIjoiVjdDTDZGREtIdGJUTHVrczUvRVMyUVJ0Z2JMUDZjemlNN0pZcSt0M0Z6WEVXaGhpTXowenJsUVpIK1VrcVZ2byIsIm1hYyI6ImYzZWZkNTI5MWE2Y2I3ODg1Njc5OGEwNTVmNGVmODJlYjdiYTJjNmY4YzcxZDJmOTc0MWU3ZDIwY2IxZGQ1ODIiLCJ0YWciOiIifQ==/6d068831-b2ec-4dee-b555-bcfc801b32f0.m3u8?lvtoken=eyJpdiI6InZENzlGNDFvejdoT0VsOS9MMzV5OHc9PSIsInZhbHVlIjoibzFzNGZ5L09uYkd5a2NsK2hYSTBOSmdBc1NqRzdvaG9VWHZYQ1hZSFNzWkZaRlF4UkRnTFhGV1lhZ1JSWGJWdEtUUFlkckR2RlM5a3hxSjVhNW1kclhURHFHMlB3dkZOWnBZM2NDWldyMzcrVzc1QllUUmtjUzhEWTJNTDFpUDBFNWhWUCtDNUxBMVRTTUFZZGxEMDZXd3pjbDZnYnhyb3B1elY1OVd2TlBpd2RrUkpjK29paUZlak1md3A1OWkxVXhiWlVDUFRiRWFZNTJDRFlTUnBKUT09IiwibWFjIjoiNzIwMjk2ZThkNzVkNmY3MjZmMTNlNjE5YzRjYjEzNjYxZTU4OTZkMDBhOTZmMDFiMzkzNGM4NjRmYjEyZDFmNCIsInRhZyI6IiJ9&r=693940&rt=d4f1f59876ba91f22fdf65c72064c53c
+http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/511.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bYlpkE5-tqhYrNatyYCuVdNpV5F5-YdGZA&usqp=CAU " group-title="⚽ Deportes ,  espn premium (argentina)
 http://tvbross.com:8090/mBEic2w7BZ/nuDwNNJLE8/47185
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrmhJ54lwP3vGJZjhrpdsfHviOmknw1JMAkQ&usqp=CAU " group-title="⚽ Deportes ",  fox sport (argentina)
@@ -372,7 +372,7 @@ https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSwWIvd6k63Amy4juhuAJvKh7tkX_Ca7apbQ&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 2 (mexico)
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069852
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SPORTS 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbCnorejxWH1BID3ZLCbUboqyO1-vjhBMgQw&usqp=CAU" group-title="⚽ Deportes ",  ESPN SPORT 3 (México)
-http://ultrapremium.cloud:8080/live/NuestroPropio@Restreamer/bgLdZhPFB3V8/511.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/30757.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlxRsJGmWmJSzt5q8FuCYTBAnTBuAgVEFCiQ&usqp=CAU" group-title="⚽ Deportes ",  espn 4 (México)
 http://elperrotv.online:80/OSCARNOE/VXF6vmcXYH/1069865
 #EXTINF:-1 tvg-id="" tvg-name="TYC SPORTS" tvg-logo="http://descargas.podzone.net/logos/-tvc.png"  group-title="⚽ Deportes ",TVC SPORTS 
