@@ -61,7 +61,7 @@ http://home-playtv.com:8080/GTnubetv/3jHgqyNZXVHw/158511
 http://fastream.xyz:8080/novacon79/5544545/243262
 
 #EXTINF:-1,tvg-logo=" https://static.wikia.nocookie.net/the-football-database/images/3/36/Copa_America_2024_Logo.png/revision/latest/scale-to-width-down/230?cb=20231206090404 ", peru-canada
-http://cdn88.telerium.online/iptv/dlive-1.m3u8
+http://cdn88.telerium.online:2052/live-2/258/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEwOjAzOjI2IFBNJmhhc2hfdmFsdWU9bndxQ3hWUHJPcGpSUk5sdDR1a0twZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  terror tv
 http://190.102.242.130:25461/multicontenido/1234/99
