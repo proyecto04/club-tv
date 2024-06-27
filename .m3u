@@ -273,6 +273,7 @@ http://offshore.lat:8080/play/3ix_FCY2ElyGjv2rILtncvXoiAtSz5H7liRwWrfVHRzvnv95Ca
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
 #EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="⭐️ Infantiles",INF| toonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwLjmU6uSCFXal_-sj4D55rR7YkDR5-a1aA&usqp=CAU" group-title="⭐️ Infantiles",INF| Google play tv
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9X2hnmDp6BL1AcRwurWxCjK1VXTvSq0rFkQ&usqp=CAU" group-title="⭐️ Infantiles",INF| maxima tv
@@ -321,7 +322,8 @@ http://tv.soccerplus.link:8000/nelsonmedrano/c93jY5YQKv/23313
 http://daleplay.club:80/play/4mplVspYv4sYIQCDbcYoPKU_m-f0wnfmVK-tD1Y05XQNtSiYA9q961sZirm4TrQa/ts
 #EXTINF:-1 TVG-LOGO=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM5Z6nUZ-LvRpokUi9ueaOK3_rKQf9OQqzjA&usqp=CAU  "group-title="  ",INF|harry potter24/7
 http://tv.proyectox.vip:8080/Robinlin01/PMga6B48Er/37755
-
+#EXTINF:-1 tvg-logo="     " group-title="   " ,INF|DISNEY 24/7
+http://tv.proyectox.vip:8080/Robinlin01/PMga6B48Er/225778
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deportes ",WIN SPORTS (colombia)
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ (colombia)
