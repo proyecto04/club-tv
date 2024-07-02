@@ -937,7 +937,7 @@ https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 tvg-id="PE | Atmosfera TV" tvg-name="PE | Atmosfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="⭐️ Perú",🇵🇪 | Atmosfera TV || Moyobamba
 http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
 
-#EXTINF:-1 tvg-logo=" https://onx.la/e6e73 " group-title="⭐️ Mexico",🇲🇽 MEXICO 🇲🇽
+#EXTINF:-1 tvg-logo=" https://thumbs.dreamstime.com/b/vector-logo-mexico-vector-logo-mexico-country-fridge-magnet-mexican-state-flag-original-brush-typeface-word-252331477.jpg " group-title="⭐️ Mexico",🇲🇽 MEXICO 🇲🇽
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYlyPSJrzQiDmNHeK306g-gZxRbEyNT6ITw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | amx noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
@@ -1201,6 +1201,7 @@ https://dashtvcloud.online:8443/josealbrook/panama121/126565
 https://dashtvcloud.online:8443/josealbrook/panama121/126563
 
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKA_fEgsUSCG-0x6Fubq3_brlsjzaJcH7cA&s" group-title="⭐️ Bolivia",🇧🇴 BOLIVIA 🇧🇴
+https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-amCIZae60B5gCtEE7nbRyJqwwXHJ5_C-g&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVISION
 http://alfatv.lat:2082/diego270903/diego270903/308389
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrHgZRtZTXTv4vhdvHkoebeeavNumgCoJUw&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | red uno 
