@@ -231,7 +231,6 @@ http://lobo-tv.live:8080/belpley/sYqKZQrTZa/201151
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElBXCoGMEQ9lsumt3k7g-XFxnep1Qkaip2g&usqp=CAU"group-title="⭐️ Cine Premium",CINE| cinema
 http://novared.pro:8080/live/salomon05vecp/chonillo195605/234855.m3u8
 
-
 #EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
 http://sdmx.vip:80/belpley/sYqKZQrTZa/10407.ts
 #EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
@@ -623,7 +622,7 @@ http://26133922272165392.ofsd5513.xyz:80/live/ja810198/NT3W3crnGm/165392.ts
 http://sebasy.dyndns.tv:8000/vaquezs/vaquezs/1018
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230708175335 " group-title="⚽ Deportes españa", movistar la liga2
 http://928938401126165398.ofsd5513.xyz:80/live/Sue23/Alv10/165398.ts
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/f9y6oe1692444384.png"group-title="⚽ Deportes españa",  la liga bar
+#EXTINF:-1 tvg-logo=" https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"group-title="⚽ Deportes españa",  la liga bar
 http://ferelmasgrande.hopto.org:8080/saray1/saray1/594244
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU "group-title=" ",Dazn la liga
 http://daleplay.club:80/play/5r6aT5WQMpM9T7RdHOxEax0_CiqWsA_4aPPn33DsWrqnfzWqJxXoLQagWeY3HyCM/ts
