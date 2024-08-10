@@ -328,14 +328,15 @@ http://bot.iamakintech.com/AgADGg267445
 #EXTINF:=1tvg-logo=" https://static.wixstatic.com/media/56c6cc_bfa94426005b449fb8ebeacbae8542d1~mv2.png/v1/fill/w_1060,h_576,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/SP%20LOGO.png  " group-title"   :,piratas
 http://bot.iamakintech.com/AgADDQ266630
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deportes ",WIN SPORTS (colombia)
 http://zuiowy.net:8080/live/Paola2023/7ThHZTUFn8ze/464.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ (colombia)
 http://animalstream.pro:8080/1q2w3e4r5t/1q2w3e4r5t/25376
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ opc.2 (colombia)
 http://megatitan.me:2095/LucTV/RumZnfr9Fs/80905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ opc.3 (colombia)
+https://la10hd.com/vivo/canal.php?stream=winsportsplus
+
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt4RZ_1QOupYwN8NGj1d3lrWZ58y94i1Abg&usqp=CAU " group-title=" ⚽ Deportes ", vtv plus (uruguay)
 http://live.detodotvplay.com:8080/PAZ1987/Yfq4w34kwx/285
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU " group-title="⚽ Deportes ",  direc tv sports (argentina)
