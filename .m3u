@@ -257,7 +257,7 @@ http://190.102.242.130:25461/multicontenido/1234/132,
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQby2UVm5k75OFSFxNG7mLxl6HXaG5hM4Fo32FHqdJg&s=CAU" group-title="⭐️ Infantiles",INF| Moni tv
 http://190.102.242.130:25461/multicontenido/1234/1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHX_NDi86x2qIx2n20c0ZgrQzrr_Lo2FzTXes-8pXRQ&s=CAU" group-title="⭐️ Infantiles",INF| adult swim 
-http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183762.m3u8
+http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183762.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2566WvM0LquVd34k4yBtcAhYFj3Q697TyQ&usqp=CAU "group-title="⭐️ infantiles",24/7|la casa de mickey mouse
 http://cafenegro.uk:80/Rafaluque/9dnjaRRe9E63/83938
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ1SeuKcctgDkBhENNxXh-9kbai5--4FTumA&usqp=CAU "group-title="⭐️ infantiles",24/7|tom y jerry
