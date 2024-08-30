@@ -232,8 +232,7 @@ https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcCnTSTp9DJmnmFtAtYb_b9FGzRgn0vRNeg&usqp=CAU" group-title="⭐️ Infantiles",INF| fanpop
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30Cvchag0hnJYuGklSMG1ZcRxPbn2OpM8jg&usqp=CAU" group-title="⭐️ Infantiles",INF| clan tv
-http://novared.pro:8080/motors/checkmotors131021/110290
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30Cvchag0hnJYuGklSMG1ZcRxPbn2OpM8jg&usqp=CAU" group-title="⭐️ Infantiles",INF| clan tvhttp://novared.pro:8080/motors/checkmotors131021/110290
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xLbgYSEi5ClJMBqpijB3R4NmT44-lDodb1EqJHsWNw&s" group-title="⭐️ Infantiles",INF| variedad tv
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOe8d8kaegTjwH1-n0j6j6vIJyFy898cN7g&usqp=CAU " group-title="⭐️ Infantiles",INF| bitme
@@ -525,8 +524,8 @@ http://cafenegro.uk:80/Rafaluque/9dnjaRRe9E63/78793
 http://143906390651909173.ofrt0823.xyz:80/live/A7LRVFH93B/sSqKypb@V56/909173.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCqa4zz62llCA2NzdOKk5xcu_NGQI8ar4IA&usqp=CAU" group-title="⭐️ Tv españa",🇪🇦 | Tele Cantabria
 https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy3aJ_9_Ts3FKSffW2Wsw4Xk4iEbX9j_QBvQ&usqp=CAU   "group-title="⭐️ Tv españa",🇪🇦 |11 TV Cantabria
-https://tele7.tv/tele-7-en-directo/
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy3aJ_9_Ts3FKSffW2Wsw4Xk4iEbX9j_QBvQ&usqp=CAU   "group-title="⭐️ Tv españa",🇪🇦 |7 TV Cantabria
+https://www.cantabriatv.es/ads/20230612211601037356
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CgwXw3Jul5nFWUuKm7I_OjrT2FdOS1N20A&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | blaze
 http://60627593855874878.ofd0716.xyz:80/live/berrobi31425/berastegui41560/874878.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVxxhskHW_JcHmemrP524IPBuC0DUHKa0FEA&s" group-title="⭐️ Tv españa",🇪🇦 | cazavision
