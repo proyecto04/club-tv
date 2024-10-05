@@ -560,20 +560,16 @@ http://439387390781879258.ofrt0823.xyz:80/live/A7LRVFH93B/sSqKypb@V56/879258.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1oI7eHTvRyfmceZ9O8qBleWbuFRGUs16qA&usqp=CAU" group-title="⚽ Deportes españa", Movistar plus  
 http://185.235.240.89:8080/play/hls/eyJpdiI6Ik8zNHNCNDRlcndQS0VzMCtCbndjZXc9PSIsInZhbHVlIjoib0JPNzJ0WUJaZjJCNzR5MkpLZ3NiODZFdWVsY2ZLL1ZTVEZQN2Y2MGFJYzUzeWZOZE9pcy83eGV4NkZXVE5SM0FSY2FKc1RpVERhMTl5N1g1ajR5dWc9PSIsIm1hYyI6ImM3NGExMmE3ZjJhODJkMTYzZTQyNjdlYjdlYjJmY2Q2ZGMxYTBmNGRkZWRmMGE5MmY2MGQ0NmQzYjZlNTM4ZWQiLCJ0YWciOiIifQ==/0373f8fc-17c0-4ac5-a931-cd0bb35684a5.m3u8?lvtoken=eyJpdiI6IktTbGpSN0xRZTk4VGs4WVo5di9ka3c9PSIsInZhbHVlIjoiQ1hNWGZDNWxmMmlKWHdSbXZJeXJvYTVSWVNXUFZHekllRklYbFEwMzZnTnFPZzZuOTY0aVdNTC9KSEgvQTl5Q281M0ZlNENLSTVSQSt5TUh0STgzTDg2RFhVQ1pnT3NmczVhZnJJQWVBNTJJYVJWeG5YM0U5UlFFSVF1bWxFZzR3NlNvbUlEdkxFbnpPZ1NUQXFHVEpEd1E3YlJzb2psTTdQOHJPWW9KdHY4WjJTaWN3NHkxKys1cGJ4RE5jZENoSEQ3czU5ZmFYckdBV2ZxVHY3d0FKZz09IiwibWFjIjoiZDNhMWZkMmVmNmU4NGVlYThkNTY4ZTA3MDg3ZGE2YzY4OWQ0YzdiOGMwYjYzMWUwZWZiOTQ4NmEzOTU5ZGUwNSIsInRhZyI6IiJ9&r=6274bc&rt=95b1520ec2e8cfc2c5b7b3559961fce4
-#EXTINF:-1 tvg-logo= " https://static.wikia.nocookie.net/logopedia/images/8/86/Tdp_HD.png/revision/latest?cb=20150126234222 " group-title=" ", Teledeporte
-http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/291.ts
 #EXTINF:-1 tvg-logo="  https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png  "group-title=" ",La Liga Bar1
 http://110266315537268042.ofd92622.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts
 #EXTINF:-1 tvg-logo=" https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"group-title="⚽ Deportes españa",  la liga bar2
 http://43911315774268042.ofnm1003.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="  ",la liga Movistar
 http://fastream.xyz:8080/novacon79/5544545/60236
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title=" ",movistar la liga1
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title=" ",la liga1
 http://110266315537165392.ofd92622.xyz:80/live/fe23100/7gpmSSG95CQt/165392.ts
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230708175335 " group-title="⚽ Deportes españa", movistar la liga2
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230708175335 " group-title="⚽ Deportes españa",  la liga2
 http://goodtv.ofd0716.xyz/live/Maestre1/qpGjtmj8RqB3/165398.ts
-#EXTINF:-1 tvg-logo=" https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"group-title="⚽ Deportes españa",  la liga bar2
-http://43911315774268042.ofnm1003.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU "group-title=" ",Dazn la liga
 http://553527015133320781.ofnm1003.xyz:80/live/fe23100/7gpmSSG95CQt/320781.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCHAV2Wc5gz_bTziF1wEInmbibm5R4Ac4Jzw&usqp=CAU" group-title="⚽ Deportes españa", Dazn la liga 1
@@ -600,9 +596,9 @@ http://tvlat2020.com:8080/ft242864/aNYSkyZTQ534/75439
 http://goodtv.ofd0716.xyz/live/Maestre1/qpGjtmj8RqB3/165257.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7SGQMhlRrYShdmLq5ZHmZ1xMKDNwZKMHdGg&usqp=CAU" group-title="⚽ Deportes españa", movistar deportes
 http://fastream.xyz:8080/novacon79/5544545/25795
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa", Movistar deportes 2
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa",  deportes 2
 http://608090812190538680.ofkp911.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/538680.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa", Movistar deportes 3
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIY1rkjN7EWp7a8Tr9j8_alFV93L6k4-oE_w&usqp=CAU" group-title="⚽ Deportes españa",  deportes 3
 http://fastream.xyz:8080/novacon79/5544545/60333
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/a/a1/Liga_de_Campeones_UHD_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721193658",liga de campeones      UHD
 http://tvlat2020.com:8080/ft242864/aNYSkyZTQ534/6885
@@ -618,8 +614,6 @@ http://iptvplay.xyz:8080/live/tvsoniar/Xu7XSWQWUaPv/73666.ts
 http://nicestard.nicsew.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/282461.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpIevXtFDFMKFaTZZDK_2mX50mW6JdmVxyQ&usqp=CAU"group-title="⚽ Deportes españa",  vamos 
 http://608090812190321072.ofkp911.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/321072.ts
-#XTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdVu2jtPYYOuh8_wxqfeORrFNafIzgsWSmA&usqp=CAU"group-title="⚽ Deportes españa",  Teledeporte
-https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
 #EXTINF:-1 tvg-logo= " https://static.wikia.nocookie.net/logopedia/images/8/86/Tdp_HD.png/revision/latest?cb=20150126234222 " group-title=" ", Teledeporte
 http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/291.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="⚽ Deportes españa",  bein esport ñ
