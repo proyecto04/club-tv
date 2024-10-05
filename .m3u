@@ -564,6 +564,8 @@ http://185.235.240.89:8080/play/hls/eyJpdiI6Ik8zNHNCNDRlcndQS0VzMCtCbndjZXc9PSIs
 http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/291.ts
 #EXTINF:-1 tvg-logo="  https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png  "group-title=" ",La Liga Bar1
 http://110266315537268042.ofd92622.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts
+#EXTINF:-1 tvg-logo=" https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"group-title="⚽ Deportes españa",  la liga bar2
+http://43911315774268042.ofnm1003.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="  ",la liga Movistar
 http://fastream.xyz:8080/novacon79/5544545/60236
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title=" ",movistar la liga1
@@ -618,6 +620,8 @@ http://nicestard.nicsew.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/282461.ts
 http://608090812190321072.ofkp911.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/321072.ts
 #XTINF:-1 tvg-id="" tvg-name="EVENTOS UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkdVu2jtPYYOuh8_wxqfeORrFNafIzgsWSmA&usqp=CAU"group-title="⚽ Deportes españa",  Teledeporte
 https://i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8
+#EXTINF:-1 tvg-logo= " https://static.wikia.nocookie.net/logopedia/images/8/86/Tdp_HD.png/revision/latest?cb=20150126234222 " group-title=" ", Teledeporte
+http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/291.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXa1FdkQBzgOgx_1o5BMm60su9RQ0HkiZ1ag&usqp=CAU " group-title="⚽ Deportes españa",  bein esport ñ
 http://fastream.xyz:8080/novacon79/5544545/12301
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSQ9I0ATqz6S2S1GRDXIyxVZwZLjU2soxrQ&usqp=CAU" group-title="⚽ Deportes españa",   Eurosport
