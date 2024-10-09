@@ -252,7 +252,7 @@ https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqILrp_2YhdW2El4AHoXiD5EXqZi7DyYi7ow&usqp=CAU " group-title="⭐️ Infantiles",INF|big tv
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz5iv3rwr7mKlKMCzbuXpCAAhkoLFPvO5wQ6aVwwmXw&s=CAU " group-title="⭐️ Infantiles",INF| dysney channel 
-http://sdmx.vip:8080/live/yestv/eVW6aPPbUCD8/10971.ts
+http://190.60.37.154:45000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo_nCYxRMrk22aZqRylBCtMcni-66U8B1UfOI3z0caQ&s=CAU " group-title="⭐️ Infantiles",INF| discovery kids
 http://nuevavision.xyz:8080/live/tVRxKnkK6ZAp/m7rPjLYMaqwJ/36459.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlaysAKEsuLPe5usJl5b9qGqMw33fFUUW2FBW8KAMpQ&s=CAU" group-title="⭐️ Infantiles",INF| aniretro
