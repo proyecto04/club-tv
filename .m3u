@@ -98,7 +98,7 @@ http://spacetvplay.com:8080/live/powertv/TmZMqpkdUusg/19626.ts
 #EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="⭐️ Cine HBO",  HBO signature
 http://funtvcr.com:8080/live/jJhHszLeVGuq/yg8fmcbE84f4/167659.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-bbNp8bGeGC6ej5b2gGmla9pTqlvREX4fvA0Afb3ag&s=CAU "group-title="⭐️ Cine universal", STUDIO UNIVERSAL
-http://200.59.188.3:8000/play/a01h
+http://200.59.188.3:8000/play/a024
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8z2KVCFoDqOqy4BnaPb-6Uy0JxF0g12TFg&usqp=CAU"group-title="⭐️ Cine universal", UNIVERSAL CINEMA
 http://45.167.3.81:45000/play/a062/index.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95lXbZLN16TwROcG8sBvrkjLlm6TFklbPptinaUSuTw&s=CAU" group-title="⭐️ Cine universal", UNIVERSAL COMEDY
@@ -108,7 +108,7 @@ http://mstrtv.com:25461/wxBvF2MsSd/b9c4ca7904abef7791146b2b95d89c41/155981
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3OjqXvnrQhmXAEKcnssyu31BcwJZpKJF34w&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL PREMIERE
 http://looknowsytes.com:25461/live/TVCOOL/KEYCANALES/93.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-Ojz0SxFaEPwYmR1I6DY8OmbpExsMgUEBg&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL TV
-http://nxt.plus:8080/live/samuraix/tth9pE3VkWA2/3271.ts
+http://200.59.188.3:8000/play/a01h
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMCNTZIB82WMcipEi-rLRLQiH9Q9D-Vecjg&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL REALITY 
 http://perutvgo.xyz:8080/live/LucTV/RumZnfr9Fs/239634.ts
 
