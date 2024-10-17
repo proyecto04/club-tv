@@ -523,7 +523,7 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTOZwdYr500230pQEMkJE40s3am8pwq9Ny0A&usqp=CAU " group-title="⭐️ Tv españa",🇪🇦 | antena 3 internacional 
 http://433383106707875641.ofdos.xyz:80/play/EDJUPGSA4C/0869008345/875641.ts
 
-#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="⚽ Futbol España⚽️", M+plus  
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="⚽ Futbol España", M+plus  
 http://756353837485825178.ofbo1005.xyz:80/live/vi23090/aFkUyJwb3fY/825178.ts
 #EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png  "group-title=" ",m+ plus 2
 http://a9093ba7e5404618fda4c52f7a5e49e0.trialspa.isfelexi.me:25461/live/sU9n8ylzlx/923912716073/27822.ts
