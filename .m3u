@@ -525,7 +525,7 @@ http://433383106707875641.ofdos.xyz:80/play/EDJUPGSA4C/0869008345/875641.ts
 
 #EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="⚽ Deportes españa", M+plus  
 http://756353837485825178.ofbo1005.xyz:80/live/vi23090/aFkUyJwb3fY/825178.ts
-#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png  "group-title=" m+ plus 2
+#EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png  "group-title=" ",m+ plus 2
 http://a9093ba7e5404618fda4c52f7a5e49e0.trialspa.isfelexi.me:25461/live/sU9n8ylzlx/923912716073/27822.ts
 #EXTINF:-1 tvg-logo="  https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png  "group-title=" ",La Liga Bar1
 http://newultra.xyz:8080/live/pastennyztv/92kpbhgn/491.ts
