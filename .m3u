@@ -1,4 +1,4 @@
-p0#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #1
+0#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #1
 https://dl.dropboxusercontent.com/scl/fi/n66te5ij10r0mb1ftlkhi/lecc1.mp4?rlkey=sefj8t73o87sb1e0zi5w9ug97&dl=0
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #2
 https://dl.dropboxusercontent.com/scl/fi/gmvdbsw9mnekeeuimwfev/lecc2.mp4?rlkey=7crpg8mkw7hbmn53si0lmv6tk&dl=00
@@ -527,6 +527,8 @@ http://433383106707875641.ofdos.xyz:80/play/EDJUPGSA4C/0869008345/875641.ts
 http://756353837485825178.ofbo1005.xyz:80/live/vi23090/aFkUyJwb3fY/825178.ts
 #EXTINF:-1 tvg-logo=" https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png  "group-title=" ",m+ plus 2
 http://a9093ba7e5404618fda4c52f7a5e49e0.trialspa.isfelexi.me:25461/live/sU9n8ylzlx/923912716073/27822.ts
+#EXTINF:-1tvg-logo="  " group-title="  ", Supercopa
+http://590668807707760431.ofnm1026.xyz:80/live/MLJHRUDLTY/3183869316/760431.ts
 #EXTINF:-1 tvg-logo="  https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png  "group-title=" ",La Liga Bar1
 http://334503446172133846.ofkd0722.xyz/live/TNHGQ3617/AAQ64528fbny/268042.ts
 #EXTINF:-1 tvg-logo=" https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"group-title="⚽ futbol españa",  la liga bar2
