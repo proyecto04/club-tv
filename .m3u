@@ -525,7 +525,7 @@ http://433383106707875641.ofdos.xyz:80/play/EDJUPGSA4C/0869008345/875641.ts
 
 #EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="⚽ Futbol España ", M+plus  
 http://756353837485825178.ofbo1005.xyz:80/live/vi23090/aFkUyJwb3fY/825178.ts
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/e/e8/Supercopa_de_Espa%C3%B1a_Logo.png "group-title=" ", Supercopa
+#EXTINF:-1 tvg-logo=" https://image-service.onefootball.com/transform?w=256&dpr=2&image=https://images.onefootball.com/icons/leagueColoredCompetition/128/63.png "group-title=" ", Supercopa
 http://832552907840760431.ofnm1026.xyz:80/live/MLJHRUDLTY/3183869316/760431.ts
 #EXTINF:-1tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Logo_Copa_del_Rey_2021_%28red_badge%29.svg/1200px-Logo_Copa_del_Rey_2021_%28red_badge%29.svg.png " group-title="  ", Copa del Rey
 http://322936107501954612.ofnm1026.xyz:80/live/MLJHRUDLTY/3183869316/954612.ts
