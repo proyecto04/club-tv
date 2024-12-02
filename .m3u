@@ -1,5 +1,5 @@
-p
-p
+
+
 99000XTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #1
 https://dl.dropboxusercontent.com/scl/fi/n66te5ij10r0mb1ftlkhi/lecc1.mp4?rlkey=sefj8t73o87sb1e0zi5w9ug97&dl=0
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #2
@@ -82,7 +82,7 @@ https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine HBO", HBO
-http://canal-pro.xyz/live/JokJok/qETRahtG2x/139.ts
+http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/139.ts
 #EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94839.ts
 #EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
