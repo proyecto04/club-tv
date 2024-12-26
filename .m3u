@@ -621,8 +621,9 @@ http://smart.maxtu.xyz:80/live/fe23100/7gpmSSG95CQt/268095.ts
 http://ok4.club:8000/live/vsgo10654/kmGG7FCpmXGy/137382.ts
 
 
-#EXTINF:-1 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZOzcTGTPA-yZ_JHKc0m1fTZoItqs2bkKYg&usqp=CAU"  group-title="movistar+ 🇪🇦 España🇪🇦", 🇪🇦 |movistar Classico
+#EXTINF:-1 tvg-logo="  " group-title="movistar+ 🇪🇦 España🇪🇦",🇪🇦 |Music
+http://761739197580321360.ofdhu1210.xyz:80/play/77EG35S6BM/HTBVPdWC8F3/321360.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6ZOzcTGTPA-yZ_JHKc0m1fTZoItqs2bkKYg&usqp=CAU"  group-title=" ", 🇪🇦 |movistar Classico
 http://58605518516321315.ofbo1005.xyz:80/live/quiquechulo/27012024/321315.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png "group-title=" ",🇪🇦 |M+Plus
 http://pro.lsscover.cc:8080/live/882471/4643685/308837.ts
