@@ -1,4 +1,4 @@
-p0#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #1
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #1
 https://dl.dropboxusercontent.com/scl/fi/n66te5ij10r0mb1ftlkhi/lecc1.mp4?rlkey=sefj8t73o87sb1e0zi5w9ug97&dl=0
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | LECCION #2
 https://dl.dropboxusercontent.com/scl/fi/gmvdbsw9mnekeeuimwfev/lecc2.mp4?rlkey=7crpg8mkw7hbmn53si0lmv6tk&dl=00
@@ -575,9 +575,9 @@ http://542471960892911736.ofded12.xyz:80/live/cor39/FxbCj7yHQr/911736.ts
 http://579546816113968237.ofds1114.xyz:80/live/hu16477/bDR3K7WXFEp7/968237.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png " group-title="  ", movistar deportes
 http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/538696.ts
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/7/7c/Deportes_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721201028 " group-title="⚽ futbol españa",  deportes 2
-http://fastream.xyz:8080/novacon79/5544545/60332
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/40/Deportes_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721201007 " group-title="⚽ futbol españa",  deportes 3
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/7/7c/Deportes_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721201028 " group-title="⚽ futbol españa", movistar deportes 2
+http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/538680.ts
+#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/40/Deportes_3_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230721201007 " group-title="⚽ futbol españa", movistar deportes 3
 http://906216537472538683.ofbo1005.xyz:80/live/vi23090/aFkUyJwb3fY/538683.ts
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/44/Liga_de_Campeones_UHD_por_Movistar_Plus%2B.png/revision/latest?cb=20230708172009",Liga de campeones 
 http://daleplay.club:80/live/LizbethLeon/Lizbeth09122021/144048.ts
