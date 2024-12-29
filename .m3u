@@ -567,6 +567,10 @@ http://fastream.xyz:8080/novacon79/5544545/60361
 http://quality.primegold.xyz:80/live/hu225611/Nat@MSh6@b/228398.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPqXJlV50fEhOWdTtqp72kAz_x9OxMZb39A&usqp=CAU" group-title=" ", DAZN MOVISTAR F1 
 http://bolgenco.xyz:2082/live/Adrian3conex/CWEkQs8pQKXd/151704.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejHU9ZOpJ8LQGwo3Rx_4I_QQG79ovqszPLw&usqp=CAU "group-title=" ",DAZN Italia
+http://542471960892911735.ofded12.xyz:80/live/cor39/FxbCj7yHQr/911735.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejHU9ZOpJ8LQGwo3Rx_4I_QQG79ovqszPLw&usqp=CAU  "group-title=" ",DAZN 1 Italia
+http://542471960892911736.ofded12.xyz:80/live/cor39/FxbCj7yHQr/911736.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfA5Fm4_vxHjQahMhgp6ZtUvb9KfRHdKcG9w&s" group-title="  ", DAZN COMBAT
 http://579546816113968237.ofds1114.xyz:80/live/hu16477/bDR3K7WXFEp7/968237.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/2560px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png " group-title="  ", movistar deportes
