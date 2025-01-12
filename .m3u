@@ -527,7 +527,7 @@ http://50.7.37.210:8000/live/GVAYCBQGAR/GKqDVuqyry/875641.ts?token=H0EMV0RQRl8UA
 #EXTINF:-1 tvg-logo=" https://ayuda.ubeat.tv/meta-image.jpg  "group-title="⭐️ Tv españa",🇪🇦 | Ubeat
 http://goodtv.nomuvadem.xyz:80/live/zh410088/XdG4Nc8JpN/648496.ts
 
-#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w240-h480-rw" group-title="⚽ Futbol España ⚽️", M+plus  
+#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w240-h480-rw" group-title="⚽ Futbol España ", M+plus  
 http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/646235.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5JXi_ksCmW3VL-8GmycB9iWqVK1ltDYJXA&usqp=CAU"group-title=" ", Supercopa
 http://517192055695760431.ofxn1112.xyz:80/live/GVAYCBQGAR/GKqDVuqyry/760431.ts
@@ -539,8 +539,7 @@ http://afb7w.nicsew.xyz:80/live/te1114624/a8HsqMcHMqXs/165407.ts
 http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/165407.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="  ",la liga Movistar
 http://afb7w.nicsew.xyz:80/live/te1114624/a8HsqMcHMqXs/165392.ts
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title=" ",la liga Movistar
-
+#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title=" ",la liga Movista
 http://deculverd.online:2082/danielo2cone/JvX7LnNjK3Wv/190999
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus%2B_2023.png/revision/latest?cb=20230708175335 " group-title="⚽ futbol españa",  la liga2
 http://bolgenco.xyz:2082/live/Adrian3conex/CWEkQs8pQKXd/151642.ts
@@ -604,10 +603,8 @@ http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/992260.ts
 http://973279715607290349.ofdgo121.xyz:80/live/fe23100/7gpmSSG95CQt/290349.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWSQ9I0ATqz6S2S1GRDXIyxVZwZLjU2soxrQ&usqp=CAU" group-title="⚽ futbol españa",   Eurosport 2
 http://973279715607290353.ofdgo121.xyz:80/live/fe23100/7gpmSSG95CQt/290353.ts
-
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/9/91/RM2019.png/revision/latest/scale-to-width-down/288?cb=20191224175551" group-title="⚽ futbol españa", real Madrid 
 http://110266315537538768.ofd92622.xyz:80/live/fe23100/7gpmSSG95CQt/538768.ts
-
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJrh_WYKnuLcZ-SK-1wIHtqX95p1tuQw38DA&usqp=CAU " group-title="⚽ futbol españa", sport 3
 http://195.42.232.18:8080/play/hls/eyJpdiI6InJDSzBLdlpqVGFkWmJ4Si9zWnM1NEE9PSIsInZhbHVlIjoiazFpTmFBTzJqcXo1RWVGakIvREZtdjMzd1QyTTdOdmwrMGpSWXpwRzN4LzEyaEphZ0ZubWs1MTlBR0tKUjNxWmgvRXNETTljaUkyT2t3ZFFJM1haeWc9PSIsIm1hYyI6IjE5ZDI5ZDQwMmQzZjg5YTRmY2E1OWVhMzQ3MDdlZTM1Yjc5ZDBlMDc4MGI5NjNjYWRkNjhhMDA5ZjhjMDFhMGQiLCJ0YWciOiIifQ==/f8cb8ea5-818d-4c87-ac6a-c1064c834e44.m3u8?lvtoken=eyJpdiI6IjBka3lBV3RGZHl0RnpGMGx6dzJTa0E9PSIsInZhbHVlIjoiSGk5TWkvMHg3V3Q5THVSWC8xT0ovSGc4V01SVEkyOTBUZ1hjRHRteVlXR0czMjJ3c2lzMzBxWFk2dHFMN0JvdlhnM245NGZrcEFGcnB3RlBnNndSS0w5ZnZCZjBSM1F6bFdoU0JCT0JQa05yRThmVWVtSXBEVHJwSllYZmdsZ0xqdHcrb2NhQVk5SkFNczQ2Q1QxMGQreXdRZWlkbE52MGN1NGlxR2FYeVpOc1gxcmFvZFhWWmhJN3RDTmgxTjQ1Qlp5bEF2MTlleHdXYlYxRDBDN0ZEQT09IiwibWFjIjoiMDNlN2RjMDZiYmU2NmQ0YTYwNDFjZjE4NDNlMGUwYTU3YzY3NWM0MDE5NDc2OTk4MzFmNjdiZGQyMDdhMzM2MCIsInRhZyI6IiJ9&r=0b7eb3&rt=83ec5358a4eabb7d5dbd9dc4189af403
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7TBhpI8ZJojCRQPstRD2SFUpGNxezaVy4A&s " group-title="⚽ futbol españa", Gol TV
