@@ -411,7 +411,7 @@ http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/245571
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtO1rjap3PACXXo5fLAKc-TsGYksttRn8ldg&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | rts tv
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/7534.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlIsYTAmk4YDtHH4qbg3j0VaZXxj1Zv9Mbw&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | wuan +
-https://nxt.plus:8443/live/samuraix/tth9pE3VkWA2/188015.m3u8
+https://nxt.plus:8443/live/samuraix/tth9pE3VkWA2/188015.m3u
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJQqtSKeYZQu49wwHltOOspoOqgICTzmLDw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | Teleamazonas
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/7532.ts
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKAJyspkyKn0JBlt578WdFIz8kYZHpTUCFQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | oromar
@@ -527,7 +527,7 @@ http://50.7.37.210:8000/live/GVAYCBQGAR/GKqDVuqyry/875641.ts?token=H0EMV0RQRl8UA
 #EXTINF:-1 tvg-logo=" https://ayuda.ubeat.tv/meta-image.jpg  "group-title="⭐️ Tv españa",🇪🇦 | Ubeat
 http://goodtv.nomuvadem.xyz:80/live/zh410088/XdG4Nc8JpN/648496.ts
 
-#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w240-h480-rw" group-title="⚽ Futbol España ⚽️", M+plus  
+#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w240-h480-rw" group-title="⚽ Futbol España ", M+plus  
 http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/646235.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5JXi_ksCmW3VL-8GmycB9iWqVK1ltDYJXA&usqp=CAU"group-title=" ", Supercopa
 http://517192055695760431.ofxn1112.xyz:80/live/GVAYCBQGAR/GKqDVuqyry/760431.ts
@@ -535,7 +535,7 @@ http://517192055695760431.ofxn1112.xyz:80/live/GVAYCBQGAR/GKqDVuqyry/760431.ts
 http://517192055695954611.ofxn1112.xyz:80/live/GVAYCBQGAR/GKqDVuqyry/954611.ts
 #EXTINF:-1 tvg-logo="  https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png  "group-title=" ",La Liga TV Bar
 http://afb7w.nicsew.xyz:80/live/te1114624/a8HsqMcHMqXs/165407.ts
-#EXTINF:-1 tvg-logo=" https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"group-title="⚽ futbol españa",  la liga TV Bar2
+#EXTINF:-1 tvg-logo=" https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png"group-title="⚽ futbol españa",la liga TV Bar2
 http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/165407.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png "group-title="  ",la liga Movistar
 http://afb7w.nicsew.xyz:80/live/te1114624/a8HsqMcHMqXs/165392.ts
