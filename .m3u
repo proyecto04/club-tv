@@ -141,7 +141,7 @@ EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRG
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/8.ts
 EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine Premium",CINE| TNT SERIES
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/422981.ts
-#EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine Premium",CINE| TNT
+EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine Premium",CINE| TNT
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/422982.ts
 EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/1255.ts
