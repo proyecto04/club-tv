@@ -15,253 +15,253 @@ https://dl.dropboxusercontent.com/scl/fi/fw5ezpm63gmwcj80saq0y/LECC5.mp4?rlkey=j
 EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdZ3dG2DL3kiDNieOnuU1wF119TnmCJv0YIg&usqp=CAU " group-title="📒 TUTORIALES",📒 | leccion #6
 https://dl.dropboxusercontent.com/scl/fi/2voxhw7leilljyp736w6q/LECC6.mp4?rlkey=4lcm1bdt86l3gok61a0i76y0t&dl=0
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️EXCLUSIVO VIP  ⭐",  terror tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwd7lWptAKKvzPBvh5GfWh7Ie-Go-17XKPCA&usqp=CAU" group-title="⭐️EXCLUSIVO VIP  ⭐",  terror tv
 https://tv.streaming-chile.com:19360/8140/8140.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKz6q_ZyjOt5iGLyiDEY6cTrv7SGb5IZ15ig&usqp=CAU " group-title="⭐️ EXCLUSIVO VIP ⭐",  +cine
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKz6q_ZyjOt5iGLyiDEY6cTrv7SGb5IZ15ig&usqp=CAU " group-title="⭐️ EXCLUSIVO VIP ⭐",  +cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTi-2_4-R6Jz5YVfBGu45vTOdbl1KeJ3LeDA&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", planeta tv
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTi-2_4-R6Jz5YVfBGu45vTOdbl1KeJ3LeDA&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", planeta tv
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYegiyb4IFpoftzY2k2A7URp6Ed52AtBJTw&usqp=CAU " group-title="⭐️ EXCLUSIVO VIP ⭐",  play
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYegiyb4IFpoftzY2k2A7URp6Ed52AtBJTw&usqp=CAU " group-title="⭐️ EXCLUSIVO VIP ⭐",  play
 https://vivo.solumedia.com:19360/playtv/playtv.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cosmos
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvJqXtlfgMiMp-UgYniuKMopIbavCTEAK7Hg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cosmos
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFpbKi0GqYmlqhaMV1Fc7Jqb3OoDYYM6KMg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cinerama
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFpbKi0GqYmlqhaMV1Fc7Jqb3OoDYYM6KMg&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  cinerama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsy2NSLL57zATMKM6sOGDCOJmKQpsror-Ow&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  telemax
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgsy2NSLL57zATMKM6sOGDCOJmKQpsror-Ow&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐",  telemax
 https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ EXCLUSIVO VIP ⭐", extrema tv acción 
+EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/16f8ed90cfdce23eb93131280ab06426.webp" group-title="⭐️ EXCLUSIVO VIP ⭐", extrema tv acción 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeUGQ10BnaARfZdzrg3HDBnczw50dgGL-2A&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", freetv acción 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFeUGQ10BnaARfZdzrg3HDBnczw50dgGL-2A&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", freetv acción 
 https://topcinelatam-freetv.amagi.tv:443/TopCineLATAMx/master_5.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", grjngo del oeste
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoptMei6_QX_CHVzyPKpsVD1w2dRQes2JUw&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", grjngo del oeste
 https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatgyllOGa15ZbbNK0hsNTY8sO2SdQQMusKQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", cine clasico
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatgyllOGa15ZbbNK0hsNTY8sO2SdQQMusKQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", cine clasico
 https://i.mjh.nz/SamsungTVPlus/ESBD230000143.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosJ3ygTiS0KFJHpfxrDQgbpU7l6r5wTWHVQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", bigtime
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRosJ3ygTiS0KFJHpfxrDQgbpU7l6r5wTWHVQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", bigtime
 http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/53.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbInomfr9qn8qwKKG7snrvckLXzgkyA-nieQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", clover peliculas
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbInomfr9qn8qwKKG7snrvckLXzgkyA-nieQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", clover peliculas
 http://177.234.230.226:8010/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLeQLZEV3qaypnHo5fURtWwtOia-8nWT4LQ&usqp=CAU" group-title="⭐️ EXCLUSIVO VIP ⭐", orbit tv 
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwKhO6kqI7vJBtf9vl1wsCn9pNe-CQxqCoLA&usqp=CAU" group-title="⭐️ Musica",MUS| vallenatos internacional 
 https://server80.servistreaming.com:3884/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuqkzLS4KoSJH5ioE8Yb9b9o2eJKH_RNC2g&usqp=CAU" group-title="⭐️ Musica",MUS| salsa gorda tv
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuqkzLS4KoSJH5ioE8Yb9b9o2eJKH_RNC2g&usqp=CAU" group-title="⭐️ Musica",MUS| salsa gorda tv
 https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1d35c895ad041e28f8691f6a9e392e2.webp" group-title="⭐️ Musica",MUS| v classic tv tropical
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e1d35c895ad041e28f8691f6a9e392e2.webp" group-title="⭐️ Musica",MUS| v classic tv tropical
 https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w450170138.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IkVuAwbKlLEem88K-i4jTavHa_a2YspH6Q&usqp=CAU " group-title="⭐️ Musica",MUS| urbano tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IkVuAwbKlLEem88K-i4jTavHa_a2YspH6Q&usqp=CAU " group-title="⭐️ Musica",MUS| urbano tv
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGAyOOlL4MYtoCk0QbHu3ykYuhK7S96BcCg&usqp=CAU " group-title="⭐️ Musica",MUS| urbano dj
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuGAyOOlL4MYtoCk0QbHu3ykYuhK7S96BcCg&usqp=CAU " group-title="⭐️ Musica",MUS| urbano dj
 https://vdochile.com:3119/stream/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCVFZYSGWvjbAZMhAfmhYAlIVh7Nz6ud0-rg&usqp=CAU" group-title="⭐️ Musica",MUS| maleta mix music
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCVFZYSGWvjbAZMhAfmhYAlIVh7Nz6ud0-rg&usqp=CAU" group-title="⭐️ Musica",MUS| maleta mix music
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w1655577242.m3u8?PlaylistM3ULC
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="⭐️ Musica",MUS| tu musica hd
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="⭐️ Musica",MUS| tu musica hd
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6600c565921f9eb27fc17ebf1b4eac88.webp"  group-title="⭐️ Musica",MUS| si tv
+EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6600c565921f9eb27fc17ebf1b4eac88.webp"  group-title="⭐️ Musica",MUS| si tv
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXofc63pAShi-LaUo3QX_pWBcMqVsvfh-nuQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top tv
+EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXofc63pAShi-LaUo3QX_pWBcMqVsvfh-nuQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top tv
 https://isaocorp.cloudecast.com:443/toptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuBHcuzCWNPHxoPdvqWWvCrZ_kwONpnftTw&usqp=CAU"  group-title="⭐️ Musica",MUS| rock tv
+EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmuBHcuzCWNPHxoPdvqWWvCrZ_kwONpnftTw&usqp=CAU"  group-title="⭐️ Musica",MUS| rock tv
 https://tv.broadcasting.ro:443/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgJ3XaFPEdaFdfgGg__5QZ5AQWAsihvflkg&usqp=CAU" group-title="⭐️ Musica",MUS| retroplus
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgJ3XaFPEdaFdfgGg__5QZ5AQWAsihvflkg&usqp=CAU" group-title="⭐️ Musica",MUS| retroplus
 https://video06.logicahost.com.br:443/retroplustv/retroplustv/chunklist_w1312097457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkGpw2noPVnyKNnXpLUekrcwBGtoFoJVfeA&usqp=CAU" group-title="⭐️ Musica",MUS| k pop
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkGpw2noPVnyKNnXpLUekrcwBGtoFoJVfeA&usqp=CAU" group-title="⭐️ Musica",MUS| k pop
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFlq_Deq4-jJdXfxLAlN6t3z0K_BYbRtu7Jw&usqp=CAU"group-title="⭐️ Musica",MUS| la kalle
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFlq_Deq4-jJdXfxLAlN6t3z0K_BYbRtu7Jw&usqp=CAU"group-title="⭐️ Musica",MUS| la kalle
 https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8?uid=7oYfgJSWxRg9pb2achvA5G3t5NJixyb6&sid=42H67uMZRhklDLebCDVG7VjLIjyOVikb&pid=ZJRqXcpaJPhugXxL0yH0hqVtsre0cGiK&an=screen&at=web-app&av=v6.0.30&ref=https%3A%2F%2Flakalle.bluradio.com%2F&res=353x450&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd74UTr-S1lJuvp86tAcx7zdqXlQq6Y0kcdA&usqp=CAU" group-title="⭐️ Musica",MUS| flow caribeño
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd74UTr-S1lJuvp86tAcx7zdqXlQq6Y0kcdA&usqp=CAU" group-title="⭐️ Musica",MUS| flow caribeño
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU" group-title="⭐️ Musica",MUS| circuito pop 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBsibaYYBgicH-aG7UV2xJhv8cepw8nOViA&usqp=CAU" group-title="⭐️ Musica",MUS| circuito pop 
 https://vcp6.myplaytv.com:443/poptv/poptv/chunklist_w817480443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica",MUS| hits 360
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJQlnF3qpdXR3X5v4ms3zeKR8TxSSxM05BxA&usqp=CAU" group-title="⭐️ Musica",MUS| hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVC671tXxF9B5LTSrjCzl_rxA_YcrbGRNn1A&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
+EXTINF:-1 tvg-id="" tvg-name="HIT 360" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVC671tXxF9B5LTSrjCzl_rxA_YcrbGRNn1A&usqp=CAU" group-title="⭐️ Musica",MUS| cantina tv
 https://vcp.myplaytv.com:443/cantinatv/cantinatv/chunklist_w218461086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU" group-title="⭐️ Musica",MUS| OXÍGENO TV
+EXTINF:-1 tvg-id="" tvg-name="MTV 80's" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmTP06J4m7gCa5xooHOG6NLCALNZhRx89Sw&usqp=CAU" group-title="⭐️ Musica",MUS| OXÍGENO TV
 https://vcp.myplaytv.com:443/oxigenotv/oxigenotv/chunklist_w545296640.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
+EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrXQrXpP0FluOiLFtZMlvlnPMu-pYiMatkQ&usqp=CAU"  group-title="⭐️ Musica",MUS| top latino
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/115634.ts
 
-#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine HBO", HBO
+EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO.png" group-title="⭐️ Cine HBO", HBO
 http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/139.ts
-#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
+EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://descargas.podzone.net/logos/-HBO-2.png" grupo -title="⭐️ Cine Premium",CINE| HBO 2
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/94839.ts
-#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
+EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="http://descargas.podzone.net/logos/-HBO-plus.png" grupo -title="⭐️ Cine Premium",CINE| HBO +
 http://alfatv.lat:2082/live/9AGRhZGjte5k/nZSPknJ83NuH/239523.ts
-#EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine HBO",   HBO Family
+EXTINF:-1 tvg-id="HBOHDA" tvg-name="P | HBO Family" tvg-logo="http://descargas.podzone.net/logos/-HBO-family.png" group-title="⭐️ Cine HBO",   HBO Family
 http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/137.ts
-#EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine HBO",   HBO Xtreme
+EXTINF:-1 tvg-id="HBOXLAM" tvg-name="P | HBO Xtreme" tvg-logo="http://descargas.podzone.net/logos/-HBO-xtream.png" group-title="⭐️ Cine HBO",   HBO Xtreme
 http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/156.ts
-#EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine HBO",   HBO Mundi
+EXTINF:-1 tvg-id="MUNLEH" tvg-name="P | HBO Mundi" tvg-logo="http://descargas.podzone.net/logos/-HBO-mundi.png" group-title="⭐️ Cine HBO",   HBO Mundi
 http://84423.xyz:8000/live/Bronder67-test/ZAHW9SU1IC-test/2796.ts
-#EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine HBO",   HBO POP
+EXTINF:-1 tvg-id="POPAM" tvg-name="P | HBO POP" tvg-logo="http://descargas.podzone.net/logos/-HBO-pop.png" group-title="⭐️ Cine HBO",   HBO POP
 http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/147.ts
-#EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="⭐️ Cine HBO",  HBO signature
+EXTINF:-1 tvg-id="HBOSIG" tvg-name="P | Firma HBO" tvg-logo="http://descargas.podzone.net/logos/-HBO-signature.png" group-title="⭐️ Cine HBO",  HBO signature
 http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/150.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-bbNp8bGeGC6ej5b2gGmla9pTqlvREX4fvA0Afb3ag&s=CAU "group-title="⭐️ Cine universal", STUDIO UNIVERSAL
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn-bbNp8bGeGC6ej5b2gGmla9pTqlvREX4fvA0Afb3ag&s=CAU "group-title="⭐️ Cine universal", STUDIO UNIVERSAL
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/394315.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8z2KVCFoDqOqy4BnaPb-6Uy0JxF0g12TFg&usqp=CAU"group-title="⭐️ Cine universal", UNIVERSAL CINEMA
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb8z2KVCFoDqOqy4BnaPb-6Uy0JxF0g12TFg&usqp=CAU"group-title="⭐️ Cine universal", UNIVERSAL CINEMA
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/432551.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95lXbZLN16TwROcG8sBvrkjLlm6TFklbPptinaUSuTw&s=CAU" group-title="⭐️ Cine universal", UNIVERSAL COMEDY
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95lXbZLN16TwROcG8sBvrkjLlm6TFklbPptinaUSuTw&s=CAU" group-title="⭐️ Cine universal", UNIVERSAL COMEDY
 http://daleplay.club/live/nj9121jose/NXqbrZuj9NRq/111417.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRI4XNuPPnyKiR70ikktQXILTf1zfYzRR6A&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL CRIME
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRI4XNuPPnyKiR70ikktQXILTf1zfYzRR6A&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL CRIME
 http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/65205.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3OjqXvnrQhmXAEKcnssyu31BcwJZpKJF34w&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL PREMIERE
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3OjqXvnrQhmXAEKcnssyu31BcwJZpKJF34w&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL PREMIERE
 http://ultrapremium.cloud:8080/live/43kuza97pa55ke48/29wuma93weme45/65208.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-Ojz0SxFaEPwYmR1I6DY8OmbpExsMgUEBg&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL TV
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI-Ojz0SxFaEPwYmR1I6DY8OmbpExsMgUEBg&usqp=CAU" group-title="⭐️ Cine universal", UNIVERSAL TV
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/432460.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMCNTZIB82WMcipEi-rLRLQiH9Q9D-Vecjg&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL REALITY 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMCNTZIB82WMcipEi-rLRLQiH9Q9D-Vecjg&usqp=CAU " group-title="⭐️ Cine universal", UNIVERSAL REALITY 
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/111420.ts
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUJIHzjcp6qoFNogje3XNCrE7MLc8QjMnLQ&usqp=" group-title="⭐️ Cine Golden", GOLDEN
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUJIHzjcp6qoFNogje3XNCrE7MLc8QjMnLQ&usqp=" group-title="⭐️ Cine Golden", GOLDEN
 http://fastream.xyz:8080/live/976581048tv/45dt4t/127.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEz1WGHyG5fHWAo7oepahJFx1Ije2935uUw&usqp=CAU " group-title="⭐️ Cine Golden", GOLDEN EDGE 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWEz1WGHyG5fHWAo7oepahJFx1Ije2935uUw&usqp=CAU " group-title="⭐️ Cine Golden", GOLDEN EDGE 
 http://fastream.xyz:8080/live/976581048tv/45dt4t/65218.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GofS6VHREsugJ_z8GPcP8pdBwb6hvRPGJw&usqp=CAU" group-title="⭐️ Cine Golden", GOLDEN PLUS
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4GofS6VHREsugJ_z8GPcP8pdBwb6hvRPGJw&usqp=CAU" group-title="⭐️ Cine Golden", GOLDEN PLUS
 http://tvlatino.live:8080/live/RobertoV12/EmFeJsjK6EVz/93516.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwe10fmZs5MIanzlmgam9xMAeitpajenczg&usqp=CAU" group-title="⭐️ Cine Golden", GOLDEN PREMIER
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKwe10fmZs5MIanzlmgam9xMAeitpajenczg&usqp=CAU" group-title="⭐️ Cine Golden", GOLDEN PREMIER
 http://tvlatino.live:8080/live/RobertoV12/EmFeJsjK6EVz/93518.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCDZINCUaOqw3Qh7NXkLovXjKikLFrSACoQ&usqp=CAU" group-title="⭐️ Cine Golden", GOLDEN PREMIER 2 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCDZINCUaOqw3Qh7NXkLovXjKikLFrSACoQ&usqp=CAU" group-title="⭐️ Cine Golden", GOLDEN PREMIER 2 
 http://fastream.xyz:8080/live/976581048tv/45dt4t/65226.ts
 
-#EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="⭐️ Cine Premium",CINE| Cine Familiar
+EXTINF:-1 tvg-id="USA | Cine Familiar" tvg-name="USA | Cine Familiar" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cine-familiar.png" group-title="⭐️ Cine Premium",CINE| Cine Familiar
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/1156760.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgN957TtfAEFVRBupvrBCK-zzbGAehvfbS687ItimgUv_O24jV12PrwHs&usqp=CAU " group-title="⭐️ Cine Premium",CINE| usa network 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgN957TtfAEFVRBupvrBCK-zzbGAehvfbS687ItimgUv_O24jV12PrwHs&usqp=CAU " group-title="⭐️ Cine Premium",CINE| usa network 
 http://galaxypro.online:8080/live/Carlosmoreno1030/19736512962/380797.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqagZsvbvuG92jPYcyIqpeCMRcbRpZwTNfkw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| starz
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqagZsvbvuG92jPYcyIqpeCMRcbRpZwTNfkw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| starz
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/1180733.ts
-#EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
+EXTINF:-1 tvg-id="fx.mx" tvg-name="2MB | FX LQ" tvg-logo="http://descargas.podzone.net/logos/-FX.png" group-title="⭐️ Cine Premium",CINE| FX
 http://daleplay.club/live/nj9121jose/NXqbrZuj9NRq/1274.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhb9ga1hqM2ZIJJuzseaF0qXu7hiOLof47Pw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Space
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/1282.ts
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
+EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-AyE.png" group-title="⭐️ Cine Premium",CINE| A&E
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/6.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRGW3v1FQSiCK6Jc4T-DTUOr_n6nGIsdHIw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| cinemax
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRGW3v1FQSiCK6Jc4T-DTUOr_n6nGIsdHIw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| cinemax
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/8.ts
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine Premium",CINE| TNT SERIES
+EXTINF:-1 tvg-id="TNTLVHD" tvg-name="P | TNT" tvg-logo="http://descargas.podzone.net/logos/-TNT-series.png" group-title="⭐️ Cine Premium",CINE| TNT SERIES
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/422981.ts
 #EXTINF:-1 tvg-id="tnt.mx" tvg-name="2MB | TNT LQ" tvg-logo="http://descargas.podzone.net/logos/-TNT.png" group-title="⭐️ Cine Premium",CINE| TNT
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/422982.ts
-#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
+EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-AXN.png" group-title="⭐️ Cine Premium",CINE| AXN
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/1255.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOfsSaEw17zDmR1V_eX4JVyq9qrxp40-j8g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| AMC
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlOfsSaEw17zDmR1V_eX4JVyq9qrxp40-j8g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| AMC
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/1284.ts
-#EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount
+EXTINF:-1 tvg-id="" tvg-name="P | Paramount+ Presenta" tvg-logo="http://descargas.podzone.net/logos/-paramount.png" group-title="⭐️ Cine Premium",CINE| Paramount
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/53938.ts
-#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
+EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal"  tvg-logo="http://descargas.podzone.net/logos/-cinecanal.png" group-title="⭐️ Cine Premium",CINE| Cinecanal
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/1251.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdgK8nmyYFbfs2asYSsyf0VEax8yjJnLYJQ&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de pelicula
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdgK8nmyYFbfs2asYSsyf0VEax8yjJnLYJQ&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de pelicula
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/63734.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMU7s2BFWuCWTz5KquynUbWKVvyt_bkFzMA&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de película clásico 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQMU7s2BFWuCWTz5KquynUbWKVvyt_bkFzMA&usqp=CAU " group-title="⭐️ Cine Premium",CINE| de película clásico 
 http://novared.pro:8080/live/GuilleEstra/ATes4XYxxU64/63736.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSi7SbFmeNZkV9LE5RyCfep3lwep5AavQJWw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Warner
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/1259.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| sony movies
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9_23qztuHYhlclfjxPGt_SZcu7HDAv0VuQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| sony movies
 http://p2premium.club:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/394314.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Sony Channel
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8g4pgtD9NRV7Q3SMRX1XUcxAkSyd3qR23Mw&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Sony Channel
 http://p2premium.club:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/394313.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwAqYaamtexrk7fWIwrM7ptnqhyOBAy6UyQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Azteca Cinema
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwAqYaamtexrk7fWIwrM7ptnqhyOBAy6UyQ&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Azteca Cinema
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Hsrmg7sVbz5j_ON2WZ8W7mgxKT5S9Jde3Q&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Europa-Europa
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Hsrmg7sVbz5j_ON2WZ8W7mgxKT5S9Jde3Q&usqp=CAU" group-title="⭐️ Cine Premium",CINE| Europa-Europa
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/394277.ts
-#EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| STAR CHANNEL
+EXTINF:-1 tvg-id="fox.mx" tvg-name="2MB | STAR CHANNEL LQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8bIE311mFAEe8p_LwuOKrT0i93OFBvXXE3g&usqp=CAU" group-title="⭐️ Cine Premium",CINE| STAR CHANNEL
 http://p2premium.club:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/394282.ts
-#EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
+EXTINF:-1 tvg-id="MPREL" tvg-name="P | Multipremier" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/oqccogvw2k3tmpul6heb0/multipremier.png?rlkey=u954lcq1gn6d9zwwys5jhmlik&dl=0" group-title="⭐️ Cine Premium",CINE| Multipremier
 http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/453505.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElBXCoGMEQ9lsumt3k7g-XFxnep1Qkaip2g&usqp=CAU"group-title="⭐️ Cine Premium",CINE| cinema
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQElBXCoGMEQ9lsumt3k7g-XFxnep1Qkaip2g&usqp=CAU"group-title="⭐️ Cine Premium",CINE| cinema
 http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/2206.ts
 
-#EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
+EXTINF:-1 tvg-id="APMXHD" tvg-name="C | Animal Planet" tvg-logo="http://descargas.podzone.net/logos/-animal-planet.png" group-title="⭐️ Cultura",CUL| Animal Planet
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/402.ts
-#EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
+EXTINF:-1 tvg-id="DISANZ" tvg-name="C | Discovery Channel" tvg-logo="http://descargas.podzone.net/logos/-discovery-channel.png" group-title="⭐️ Cultura",CUL| Discovery Channel
 http://daleplay.club/live/nj9121jose/NXqbrZuj9NRq/53457.ts
-#EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
+EXTINF:-1 tvg-id="DFAMHD" tvg-name="C | Discovery Familia" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/m1xje3v01pn55zyn25lfe/Discoveryfami.png?rlkey=mwtraqj9ymtbflwsql7inctxc&dl=0" group-title="⭐️ Cultura",CUL| Discovery Familia
 http://play.steeltv.org:8080/live/GTnubetv/9XvbmwuFW8rF/10769.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
+EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-home-&-health.png" group-title="⭐️ Cultura",CUL| Discovery. H&H
 http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/135671.ts
-#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
+EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation" tvg-logo="http://descargas.podzone.net/logos/-discovery-ID.png" group-title="⭐️ Cultura",CUL| Discovery Investigation
 http://galaxypro.online:8080/AWVSf9gT/QVT6xN7/247694
-#EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="⭐️ Cultura",CUL| Discovery SCI
+EXTINF:-1 tvg-id="discoveryscience.mx" tvg-name="C | Discovery SCI" tvg-logo="http://descargas.podzone.net/logos/-discovery-science.png" group-title="⭐️ Cultura",CUL| Discovery SCI
 http://nxt.plus:8080/live/samuraix/tth9pE3VkWA2/30423.ts
-#EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
+EXTINF:-1 tvg-id="DTHLAHA" tvg-name="C | Discovery Theater" tvg-logo="http://descargas.podzone.net/logos/-discovery-theater.png" group-title="⭐️ Cultura",CUL| Discovery Theater
 http://alfatv.lat:2082/Hector@Espindola/Dolores@Lolis/235590
-#EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
+EXTINF:-1 tvg-id="DTRBLAH" tvg-name="C | Discovery Turbo" tvg-logo="http://descargas.podzone.net/logos/-discovery-turbo.png" group-title="⭐️ Cultura",CUL| Discovery Turbo
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/420.ts
-#EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="⭐️ Cultura",CUL| Discovery World
+EXTINF:-1 tvg-id="DWRLDHE" tvg-name="C | Discovery World" tvg-logo="http://descargas.podzone.net/logos/-discovery-world.png" group-title="⭐️ Cultura",CUL| Discovery World
 http://daleplay.club/live/nj9121jose/NXqbrZuj9NRq/53470.ts
-#EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="⭐️ Cultura",CUL| History Channel
+EXTINF:-1 tvg-id="HISTSW" tvg-name="C | History Channel" tvg-logo="http://descargas.podzone.net/logos/-history.png" group-title="⭐️ Cultura",CUL| History Channel
 http://play.steeltv.org:8080/live/GTnubetv/9XvbmwuFW8rF/242013.ts
-#EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
+EXTINF:-1 tvg-id="history2.mx" tvg-name="C | History Channel 2" tvg-logo="http://descargas.podzone.net/logos/-H2-(history2).png" group-title="⭐️ Cultura",CUL| History Channel 2
 http://p2premium.club:8080/live/3848Yevkerkkk/Menrhrh73646aeatT/53483.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh8jqLtJqVtwJLxjjqE7ncr9S4sll9J5uS4w&usqp=CAU" group-title="⭐️ Cultura",CUL| National Geographic
 http://play.steeltv.org:8080/live/GTnubetv/9XvbmwuFW8rF/54520.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-hD5A997NRmK-F063VmDZG5dZdbYkl_MgQ&usqp=CAU " group-title="⭐️ Cultura",CUL|  nat geo wild
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7-hD5A997NRmK-F063VmDZG5dZdbYkl_MgQ&usqp=CAU " group-title="⭐️ Cultura",CUL|  nat geo wild
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/441.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU " group-title="⭐️ Cultura",CUL| love nature
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWOZPvk_rWulR2blnb7c4j8VGfJaaGnh7Q&usqp=CAU " group-title="⭐️ Cultura",CUL| love nature
 http://afb7w.nicsew.xyz:80/live/te1114624/a8HsqMcHMqXs/957997.ts
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBIJpNHUw9NN6n5vkhITs1mMV2gqkSY7JKw&usqp=CAU " group-title="⭐️ Infantiles",INF| cartoon network
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBIJpNHUw9NN6n5vkhITs1mMV2gqkSY7JKw&usqp=CAU " group-title="⭐️ Infantiles",INF| cartoon network
 http://spacetvplay.com:8080/live/powertv/TmZMqpkdUusg/439761.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBIJpNHUw9NN6n5vkhITs1mMV2gqkSY7JKw&usqp=CAU " group-title="⭐️ Infantiles",INF| cartoon network city
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBIJpNHUw9NN6n5vkhITs1mMV2gqkSY7JKw&usqp=CAU " group-title="⭐️ Infantiles",INF| cartoon network city
 https://envivo.cncity.live/hls/cncity.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutC_Caxt-F1P9n8tpParhZiEkSeUcLshzVg&usqp=CAU" group-title="⭐️ Infantiles",INF| Tooncast
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTutC_Caxt-F1P9n8tpParhZiEkSeUcLshzVg&usqp=CAU" group-title="⭐️ Infantiles",INF| Tooncast
 http://tvgusplay.info:80/live/CNEbrGXB6PAU/rcJtNjksZwrH/173.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0O3bNpPlsXQMrPnmyu2nQfXFxwxgiVNIQxQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Cartoonito
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0O3bNpPlsXQMrPnmyu2nQfXFxwxgiVNIQxQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Cartoonito
 http://tvgusplay.info:80/live/CNEbrGXB6PAU/rcJtNjksZwrH/168.ts
-#EXTINF:-1 tvg-id="NCKANZ" tvg-name="KIDS | Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVn-WlznbyD88VwS6mAgmBkRSCQ_hD2-v9g&usqp=CAU" group-title="⭐️ Infantiles",INF| Nickelodeon
+EXTINF:-1 tvg-id="NCKANZ" tvg-name="KIDS | Nickelodeon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVn-WlznbyD88VwS6mAgmBkRSCQ_hD2-v9g&usqp=CAU" group-title="⭐️ Infantiles",INF| Nickelodeon
 http://tvgusplay.info:80/live/CNEbrGXB6PAU/rcJtNjksZwrH/842.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgKH9kQv82NrlNieyLxyVZuvFxpCK9ozxnQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Baby tv
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpgKH9kQv82NrlNieyLxyVZuvFxpCK9ozxnQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Baby tv
 http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/149689.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU" grupo-title="⭐️ Infantiles",INF| Nick Jr   
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtpOxL3sDX9bz1UKuJUHw5fRrV1GUAVaWXwQ&usqp=CAU" grupo-title="⭐️ Infantiles",INF| Nick Jr   
 http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/4858.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LC43NU5iiJWgStdinskdkFSrf4xiVauXQw&usqp=CAU " group-title="⭐️ Infantiles",INF| Disney jr
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LC43NU5iiJWgStdinskdkFSrf4xiVauXQw&usqp=CAU " group-title="⭐️ Infantiles",INF| Disney jr
 http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/3849.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-gORxWd-uA5GjuXrUDROMFkyq6jX79hrQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Dreamworks 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSV-gORxWd-uA5GjuXrUDROMFkyq6jX79hrQ&usqp=CAU" group-title="⭐️ Infantiles",INF| Dreamworks 
 http://ultrapremium.cloud:8080/live/999833692tv/9M206UbCp/61597.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT17WcMSbyEns7j1uF3HLXi1BZVIcRGtn0vRA&usqp=CAU" group-title="⭐️ Infantiles",INF| cine kids
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT17WcMSbyEns7j1uF3HLXi1BZVIcRGtn0vRA&usqp=CAU" group-title="⭐️ Infantiles",INF| cine kids
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
-#EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99bcff8c6beafba1b9bb9959647663e6.webp" group-title="⭐️ Infantiles",INF| zaz tv
+EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/99bcff8c6beafba1b9bb9959647663e6.webp" group-title="⭐️ Infantiles",INF| zaz tv
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1972
-#EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="⭐️ Infantiles",INF| toonz kids
+EXTINF:-1 tvg-id="NICKTSW" tvg-name="KIDS | Nicktoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5f58965018411c0ef81df7c6b596ad54.webp" group-title="⭐️ Infantiles",INF| toonz kids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwLjmU6uSCFXal_-sj4D55rR7YkDR5-a1aA&usqp=CAU" group-title="⭐️ Infantiles",INF| Google play tv
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZwLjmU6uSCFXal_-sj4D55rR7YkDR5-a1aA&usqp=CAU" group-title="⭐️ Infantiles",INF| Google play tv
 https://ssh101.bozztv.com/ssh101/gogoplay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9X2hnmDp6BL1AcRwurWxCjK1VXTvSq0rFkQ&usqp=CAU" group-title="⭐️ Infantiles",INF| maxima tv
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9X2hnmDp6BL1AcRwurWxCjK1VXTvSq0rFkQ&usqp=CAU" group-title="⭐️ Infantiles",INF| maxima tv
 https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj5lazgCOmL1L5qiVPS6vvxM7hQRl_XZJRCVOLkHRDSw&s " group-title="⭐️ Infantiles",INF| animeonegai
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj5lazgCOmL1L5qiVPS6vvxM7hQRl_XZJRCVOLkHRDSw&s " group-title="⭐️ Infantiles",INF| animeonegai
 https://live.animeonegai.com/2secondtv0147728054173312/2e8b02ec75d7198df8c1ccbbeaa7329b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ Infantiles",INF| pandamax anime
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2OrZO2QRNc8r3rLxCByiZU93DX-vywjzveg&usqp=CAU" group-title="⭐️ Infantiles",INF| pandamax anime
 https://usher.ttvnw.net/api/channel/hls/pandamaxlive.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiOGZiY2Y2NjItMmNiNS00NTU0LWJlNGEtYjExMDQ4YmU3OGEzIn0%3D&allow_source=true&browser_family=chrome&browser_version=130.0&cdm=wv&fast_bread=true&os_name=Android&os_version=14&p=2968743&platform=mobile_web&play_session_id=9aad4dbe3f2ae0eaaff2b23d4bd277bc&player_backend=mediaplayer&player_version=1.34.0-rc.2.2&playlist_include_framerate=true&reassignments_supported=true&sig=4f4f0002c70407c5b3aa3eb1eae6a4d2b28c8b6d&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22pandamaxlive%22%2C%22channel_id%22%3A479375503%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22Z4ThbT2k2EFyKYppD7zMvvCcFm1wGXuq%22%2C%22expires%22%3A1729115770%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22mobile_web%22%2C%22player_type%22%3A%22channel_home_live%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22181.32.162.73%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTlgurkmI0wbFBEe9MLW-sd9hU1j67fzT1A&usqp=CAU" group-title="⭐️ Infantiles",INF| retro magico
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZTlgurkmI0wbFBEe9MLW-sd9hU1j67fzT1A&usqp=CAU" group-title="⭐️ Infantiles",INF| retro magico
 https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU" group-title="⭐️ Infantiles",INF| dreiko tv
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU" group-title="⭐️ Infantiles",INF| dreiko tv
 https://cloudvideo.servers10.com:8081/8138/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcCnTSTp9DJmnmFtAtYb_b9FGzRgn0vRNeg&usqp=CAU" group-title="⭐️ Infantiles",INF| fanpop
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDcCnTSTp9DJmnmFtAtYb_b9FGzRgn0vRNeg&usqp=CAU" group-title="⭐️ Infantiles",INF| fanpop
 https://wifiexpert-1.energeek.cl/energeek/canal-2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30Cvchag0hnJYuGklSMG1ZcRxPbn2OpM8jg&usqp=CAU" group-title="⭐️ Infantiles",INF| clan tvhttp://novared.pro:8080/motors/checkmotors131021/110290
+EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ30Cvchag0hnJYuGklSMG1ZcRxPbn2OpM8jg&usqp=CAU" group-title="⭐️ Infantiles",INF| clan tvhttp://novared.pro:8080/motors/checkmotors131021/110290
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1xLbgYSEi5ClJMBqpijB3R4NmT44-lDodb1EqJHsWNw&s" group-title="⭐️ Infantiles",INF| variedad tv
 https://cloud5.streaminglivehd.com:3874/live/latinokidsslive.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOe8d8kaegTjwH1-n0j6j6vIJyFy898cN7g&usqp=CAU " group-title="⭐️ Infantiles",INF| bitme
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOe8d8kaegTjwH1-n0j6j6vIJyFy898cN7g&usqp=CAU " group-title="⭐️ Infantiles",INF| bitme
 http://00322.xyz:8000/live/saabj84/CNGUPDY6RA/151648.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJLN792-09l3i8QDrCLkNZqjiqCvnV5HH1g&usqp=CAU " group-title="⭐️ Infantiles",INF| locomotion
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJLN792-09l3i8QDrCLkNZqjiqCvnV5HH1g&usqp=CAU " group-title="⭐️ Infantiles",INF| locomotion
 http://85.239.54.197:81/live/loco_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcpG7DQeENBnR_IPhnjwKmBsgp5zn8Y3GhbiYbzBXqw&s=CAU " group-title="⭐️ Infantiles",INF| animestation
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKcpG7DQeENBnR_IPhnjwKmBsgp5zn8Y3GhbiYbzBXqw&s=CAU " group-title="⭐️ Infantiles",INF| animestation
 https://ssh101.bozztv.com/ssh101/livestreamingtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnnJb2y-w8jnw67PaY2aSaFEosFQGmXxqzCA&usqp=CAU " group-title="⭐️ Infantiles",INF| anime taltal
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnnJb2y-w8jnw67PaY2aSaFEosFQGmXxqzCA&usqp=CAU " group-title="⭐️ Infantiles",INF| anime taltal
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqILrp_2YhdW2El4AHoXiD5EXqZi7DyYi7ow&usqp=CAU " group-title="⭐️ Infantiles",INF|big tv
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqILrp_2YhdW2El4AHoXiD5EXqZi7DyYi7ow&usqp=CAU " group-title="⭐️ Infantiles",INF|big tv
 https://ssh101.bozztv.com/ssh101/bigchannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz5iv3rwr7mKlKMCzbuXpCAAhkoLFPvO5wQ6aVwwmXw&s=CAU " group-title="⭐️ Infantiles",INF| dysney channel 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcz5iv3rwr7mKlKMCzbuXpCAAhkoLFPvO5wQ6aVwwmXw&s=CAU " group-title="⭐️ Infantiles",INF| dysney channel 
 http://190.60.37.154:45000/play/a03b/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo_nCYxRMrk22aZqRylBCtMcni-66U8B1UfOI3z0caQ&s=CAU " group-title="⭐️ Infantiles",INF| discovery kids
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbo_nCYxRMrk22aZqRylBCtMcni-66U8B1UfOI3z0caQ&s=CAU " group-title="⭐️ Infantiles",INF| discovery kids
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/376.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlaysAKEsuLPe5usJl5b9qGqMw33fFUUW2FBW8KAMpQ&s=CAU" group-title="⭐️ Infantiles",INF| aniretro
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHlaysAKEsuLPe5usJl5b9qGqMw33fFUUW2FBW8KAMpQ&s=CAU" group-title="⭐️ Infantiles",INF| aniretro
 http://190.102.242.130:25461/multicontenido/1234/132,
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQby2UVm5k75OFSFxNG7mLxl6HXaG5hM4Fo32FHqdJg&s=CAU" group-title="⭐️ Infantiles",INF| Moni tv
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqQby2UVm5k75OFSFxNG7mLxl6HXaG5hM4Fo32FHqdJg&s=CAU" group-title="⭐️ Infantiles",INF| Moni tv
 http://190.102.242.130:25461/multicontenido/1234/1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHX_NDi86x2qIx2n20c0ZgrQzrr_Lo2FzTXes-8pXRQ&s=CAU" group-title="⭐️ Infantiles",INF| adult swim 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsHX_NDi86x2qIx2n20c0ZgrQzrr_Lo2FzTXes-8pXRQ&s=CAU" group-title="⭐️ Infantiles",INF| adult swim 
 http://mstrtv.com:25461/live/nolperto1/2d2f95e23d33501f90f60f0fd30140ea/183762.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="⚽ Deportes ",WIN SPORTS (colombia)
@@ -404,33 +404,33 @@ https://dashtvcloud.online:8443/josealbrook/panama121/146532
  #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xzi4ClN1ZAAZsD1Sc2fKXIv5FnbxH1QGoTH31Qv5Hw&s " group-title=" ⚽ Deporte VIP", gol tv (usa)
 http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/125991.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklk6DKEWszdyFGRWOmWzmzL-TSDZiZfII-w&usqp=CAU" group-title="⭐️ Ecuador", 🇪🇨ECUADOR 🇪🇨
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTklk6DKEWszdyFGRWOmWzmzL-TSDZiZfII-w&usqp=CAU" group-title="⭐️ Ecuador", 🇪🇨ECUADOR 🇪🇨
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGcMUXuhnvCXS1nhDIOp6ErxLkubGtQHGrPg&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | ecuavisa
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGcMUXuhnvCXS1nhDIOp6ErxLkubGtQHGrPg&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | ecuavisa
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/53455.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQha2UPmjoP_OV-5ERe1vTzDgAMZv3op1V1lw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | tc televisión 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQha2UPmjoP_OV-5ERe1vTzDgAMZv3op1V1lw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | tc televisión 
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/53458.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQRE3D3B38xMhGYDJsY4dTEtxLpmUn-Lfg&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | zaracay tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQRE3D3B38xMhGYDJsY4dTEtxLpmUn-Lfg&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | zaracay tv
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/245571
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtO1rjap3PACXXo5fLAKc-TsGYksttRn8ldg&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | rts tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtO1rjap3PACXXo5fLAKc-TsGYksttRn8ldg&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | rts tv
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/7534.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlIsYTAmk4YDtHH4qbg3j0VaZXxj1Zv9Mbw&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | wuan +
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlIsYTAmk4YDtHH4qbg3j0VaZXxj1Zv9Mbw&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | wuan +
 https://nxt.plus:8443/live/samuraix/tth9pE3VkWA2/188015.m3u
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJQqtSKeYZQu49wwHltOOspoOqgICTzmLDw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | Teleamazonas
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJQqtSKeYZQu49wwHltOOspoOqgICTzmLDw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | Teleamazonas
 http://tv.nstvlatino.com:8080/live/099875156/099875156a/7532.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKAJyspkyKn0JBlt578WdFIz8kYZHpTUCFQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | oromar
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROKAJyspkyKn0JBlt578WdFIz8kYZHpTUCFQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | oromar
 https://nxt.plus:8443/live/samuraix/tth9pE3VkWA2/187951.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMcOpxrquGfxo9IC_xhTiqkdK6f0nqU7LJw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | telerama
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAMcOpxrquGfxo9IC_xhTiqkdK6f0nqU7LJw&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | telerama
 https://envivo.telerama.ec/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD71IMluNszzFaPLV7Mk8CsIt4eDky-cDOA&usqp=CAU  " group-title="⭐️ Ecuador",🇪🇨 | mana visión
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD71IMluNszzFaPLV7Mk8CsIt4eDky-cDOA&usqp=CAU  " group-title="⭐️ Ecuador",🇪🇨 | mana visión
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQV4AYl0NAr_ckpb0StwE8tgOu7v9ytQm6kQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | Televicentro 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQV4AYl0NAr_ckpb0StwE8tgOu7v9ytQm6kQ&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | Televicentro 
 http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/244312
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47sIaK6sDYcxIWbxJ8mq1ZZThrD-rCXogwQ&usqp=CAU  " group-title="⭐️ Ecuador",🇪🇨 | rtu noticias 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT47sIaK6sDYcxIWbxJ8mq1ZZThrD-rCXogwQ&usqp=CAU  " group-title="⭐️ Ecuador",🇪🇨 | rtu noticias 
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0wInPQr19BfYdGGXfb6DHLBUK4yYnld_YTA&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | asoma visión 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0wInPQr19BfYdGGXfb6DHLBUK4yYnld_YTA&usqp=CAU " group-title="⭐️ Ecuador",🇪🇨 | asoma visión 
 http://galaxypro.online:8080/FranklinBustos/092094FB/373844
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYkLgrEvLUNY71egcw4mGuZQU1fYkViMoNA&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | ecotel
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxYkLgrEvLUNY71egcw4mGuZQU1fYkViMoNA&usqp=CAU" group-title="⭐️ Ecuador",🇪🇨 | ecotel
 http://galaxypro.online:8080/FranklinBustos/092094FB/293539
 
 #EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/n_FDnchFo4pCPVvikk4dUef0q1LtZIOl1ZB3a3NAg8cB4WeGvCpU4uxcNpbfn0eQ_pw" group-title="⭐️ Tv españa",🇪🇦 ESPAÑA 🇪🇦
@@ -709,523 +709,523 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmf6FWsNh6BLv_SuBoDo9hYQ5eheLnNHRzg&usqp=CAU "group-title="  ",🇪🇦 | Rakuten Romántico
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXZviyBcq0uy2GZbS9jfbQMMIotTB0Vutiw&usqp=CAU" group-title="⭐️ Chile",🇨🇱 CHILE 🇨🇱
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsXZviyBcq0uy2GZbS9jfbQMMIotTB0Vutiw&usqp=CAU" group-title="⭐️ Chile",🇨🇱 CHILE 🇨🇱
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOTn5jykauW0smu6OgpHSvWCpFVT03S2wkbw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| chilevisión 
 http://venuschiletv.lat:8880/live/Luis8181/kdneh465PcEG/28251.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmdOz8X_4U7qaaeGRPQFIIqGBm9ZcRMVUrQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| teletrak
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWmdOz8X_4U7qaaeGRPQFIIqGBm9ZcRMVUrQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| teletrak
 http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/22420
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWQM-jbRSOtqha7x7ztI-ruyYAhi6omyzJw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| mega
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWQM-jbRSOtqha7x7ztI-ruyYAhi6omyzJw&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| mega
 https://ultrapremium.cloud:8443/643622031/4949pag/42)
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6c7y-wGlQlRPPdxW3Ve23hALyJM2BuyISQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| canal 13
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6c7y-wGlQlRPPdxW3Ve23hALyJM2BuyISQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| canal 13
 http://venuschiletv.lat:8880/live/Luis8181/kdneh465PcEG/272240.m3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KgNAwHBV54iUDftvV8FiIAtKcdpskerKqQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| cnn chile
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KgNAwHBV54iUDftvV8FiIAtKcdpskerKqQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| cnn chile
 https://ultrapremium.cloud:8443/643622031/4949pag/34
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| zona latina
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6TpmeLVvfRgRt57eEnafP7rViLBeNIElAtQ&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| zona latina
 https://ultrapremium.cloud:8443/643622031/4949pag/70
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQax2jFTLCYusJfR0WjNCD-DTJ9qd1XIJCtAA&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| la red
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQax2jFTLCYusJfR0WjNCD-DTJ9qd1XIJCtAA&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| la red
 https://ultrapremium.cloud:8443/643622031/4949pag/55
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzpC9w64YMfigFBAOrxLbHrWkSG96ujwIeg&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| teleseries
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRzpC9w64YMfigFBAOrxLbHrWkSG96ujwIeg&usqp=CAU"  group-title="⭐️ Chile",🇨🇱| teleseries
 https://ultrapremium.cloud:8443/643622031/4949pag/82
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCaB4-xuepDYF5gaK2-17iyYx6xNHNAvzmQ&usqp=CAU " group-title="⭐️ Chile",🇨🇱| 13 cultura
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtCaB4-xuepDYF5gaK2-17iyYx6xNHNAvzmQ&usqp=CAU " group-title="⭐️ Chile",🇨🇱| 13 cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOvxMzZPkFLPUHzXupSmcjCo1mu-Q5RA4IQ&usqp=CAU" group-title="⭐️ Chile",🇨🇱| 13 entretencion
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnOvxMzZPkFLPUHzXupSmcjCo1mu-Q5RA4IQ&usqp=CAU" group-title="⭐️ Chile",🇨🇱| 13 entretencion
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfUMQKvfOXsVTEL0T2ZPRv-RPRa5z9Aurw8A&usqp=CAU " group-title="⭐️ Chile",🇨🇱| 13 festival
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfUMQKvfOXsVTEL0T2ZPRv-RPRa5z9Aurw8A&usqp=CAU " group-title="⭐️ Chile",🇨🇱| 13 festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-USQDjjb_ARvP1dlXNIz4t3bPM4GC7LY0w&usqp=CAU" group-title="⭐️ Chile",🇨🇱| 24 horas
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl-USQDjjb_ARvP1dlXNIz4t3bPM4GC7LY0w&usqp=CAU" group-title="⭐️ Chile",🇨🇱| 24 horas
 https://ythls.armelin.one/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszWOw6L16JzE-5ZsDs7kgOtRlJhHuhw2cpQ&usqp=CAU" group-title="⭐️ Chile",🇨🇱| tvn
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQszWOw6L16JzE-5ZsDs7kgOtRlJhHuhw2cpQ&usqp=CAU" group-title="⭐️ Chile",🇨🇱| tvn
 http://europass.site:8080/Exgardo2022/ZeCbag12Rp/1017
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LoP-5djqm7Cm_5UnVEv_z-nPM3TFqDb70iXXyT0kjA&s "group-title="  ",🇨🇱 | Caracola tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8LoP-5djqm7Cm_5UnVEv_z-nPM3TFqDb70iXXyT0kjA&s "group-title="  ",🇨🇱 | Caracola tv
 http://599905028712785809.tkop413.xyz:80/play/ja98064/fseeTrJD5hBt/785809.ts
 http://home-playtv.com:8080/ArianLatino/HmzUpdy26e/394841
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdVuzvFNN4b23fftyr9H3wINoEXFCxTu3aw&usqp=CAU" group-title="⭐️ Uruguay", 🇺🇾 URUGUAY 🇺🇾
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZdVuzvFNN4b23fftyr9H3wINoEXFCxTu3aw&usqp=CAU" group-title="⭐️ Uruguay", 🇺🇾 URUGUAY 🇺🇾
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/79/Teledoce_2022.png  " group-title="  ",🇺🇾 | Teledoce
+EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/7/79/Teledoce_2022.png  " group-title="  ",🇺🇾 | Teledoce
 http://bolgenco.xyz:2082/Oscar2807/CEpzGYVDCzq3/373870
-#EXTINF:-1 tvg-logo=" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?fit=1920%2C1080&ssl=1   "group-title="  ",🇺🇾 |canal 5
+EXTINF:-1 tvg-logo=" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/08/Canal-5-Uruguay-en-vivo-Online.png?fit=1920%2C1080&ssl=1   "group-title="  ",🇺🇾 |canal 5
 http://deculverd.online:2082/danielo2cone/JvX7LnNjK3Wv/373878
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEj1cS-IRuXj9_9hWN7YOxehwg-83R4qbtlg&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | canal 10
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEj1cS-IRuXj9_9hWN7YOxehwg-83R4qbtlg&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | canal 10
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/52817.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpugK5qEoRsi_2fZgkgHCHH_fKUlojR3fNXw&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | canal 4
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpugK5qEoRsi_2fZgkgHCHH_fKUlojR3fNXw&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | canal 4
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/52812.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgChZcYk-VbI1RnAm9IZBBDg74U00H9UQg4A&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | vtv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgChZcYk-VbI1RnAm9IZBBDg74U00H9UQg4A&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | vtv
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/52833.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-CxriqUuNC_JAqcs_cRunfBPfmfwBe0-cw&usqp=CAU  " group-title="⭐️ Uruguay",🇺🇾 | tv ciudad
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-CxriqUuNC_JAqcs_cRunfBPfmfwBe0-cw&usqp=CAU  " group-title="⭐️ Uruguay",🇺🇾 | tv ciudad
 http://daleplay.club/live/Josechp20/Sjaz8hU3z3cZ/52838.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7SbnY-ecb9RitxRogbFA1mwPgU_7yxehVA&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | mision tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA7SbnY-ecb9RitxRogbFA1mwPgU_7yxehVA&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | mision tv
 https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1422587397.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXGnYvoPgW-ieY_qoIYtCmmcHgtX5X0zxFw&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | florida tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXGnYvoPgW-ieY_qoIYtCmmcHgtX5X0zxFw&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | florida tv
 https://stmv1.srvif.com/tv6842/tv6842/chunklist_w1376201793.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkFVoMs74izPhdAvdE3zBuZhBgpwr08ySmA&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | vivo tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHkFVoMs74izPhdAvdE3zBuZhBgpwr08ySmA&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | vivo tv
 https://stream.vivotv.uy/hls/0/stream.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9SyMkZrpHHj8s8ngzKMJdbHpnct_Jv3Flw&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | canal 8 Mercedes 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9SyMkZrpHHj8s8ngzKMJdbHpnct_Jv3Flw&usqp=CAU" group-title="⭐️ Uruguay",🇺🇾 | canal 8 Mercedes 
 http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kXWzpoZg5ZexA9XWaeJTF9NiBSsMSyADRg&usqp=CAU " group-title="⭐️ Uruguay",🇺🇾 | canal alma
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kXWzpoZg5ZexA9XWaeJTF9NiBSsMSyADRg&usqp=CAU " group-title="⭐️ Uruguay",🇺🇾 | canal alma
 https://live.cloudhostservers.com:3486/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO 
+EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO 
 http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55146.ts
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO INTERNACIONAL
+EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telemundo.png" group-title="⭐️ Usa Latinos", TELEMUNDO INTERNACIONAL
 http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55148.ts
-#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION
+EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-univision.png" group-title="⭐️ Usa Latinos", UNIVISION
 http://directo.ddns.me:33200/live/restreamtvplux/Mhsi3wMSJSEjska343255/55149.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjNaDWc9JZ5ur_-RCw1Yxe2iJE4FIFzuEhg&usqp=CAU " group-title="⭐️ Usa Latinos", USA |america tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxjNaDWc9JZ5ur_-RCw1Yxe2iJE4FIFzuEhg&usqp=CAU " group-title="⭐️ Usa Latinos", USA |america tv
 https://live.gideo.video:443/americateve2/HD720/HD720.m3u8
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWiiIFrtV_hKP0bSODVOC_-8DQCQdNS_jTBw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷 ARGENTINA 🇦🇷
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWiiIFrtV_hKP0bSODVOC_-8DQCQdNS_jTBw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷 ARGENTINA 🇦🇷
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsC-inSgCLFzjVkcEgNBJ74b0EUG7QrsY69g&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CADENA REGIONAL ALCORTA
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsC-inSgCLFzjVkcEgNBJ74b0EUG7QrsY69g&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CADENA REGIONAL ALCORTA
 https://vivo.solumedia.com:19360/argento3/argento3.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsC-inSgCLFzjVkcEgNBJ74b0EUG7QrsY69g&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CADENA REGIONAL MAXIMO PAZ
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsC-inSgCLFzjVkcEgNBJ74b0EUG7QrsY69g&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CADENA REGIONAL MAXIMO PAZ
 https://vivo.solumedia.com:19360/argento/argento.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4ZA7BXzKoySsKoYEmDVKwINWNdKR7Y5ZlA&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CANAL 5 DEL PUEBLO ALCORTA
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX4ZA7BXzKoySsKoYEmDVKwINWNdKR7Y5ZlA&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CANAL 5 DEL PUEBLO ALCORTA
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5Dzt_D3RluRSshcF6os7rKbp-xMkAGiCug&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| CANAL UNO ARGENTINA
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT5Dzt_D3RluRSshcF6os7rKbp-xMkAGiCug&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| CANAL UNO ARGENTINA
 https://stmv3.voxtvhd.com.br/unotvargentina/unotvargentina/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEs13B0E7S4CKyA1sNoEHG1eXO4xy3EYJGw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| SOMOS UNO CHACO
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUEs13B0E7S4CKyA1sNoEHG1eXO4xy3EYJGw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| SOMOS UNO CHACO
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/chunklist_w1659122827.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8GIkTJ0HRf4qeZvvxEg6kRxbVJBPQ5B_vqA&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| BAYRES TV
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8GIkTJ0HRf4qeZvvxEg6kRxbVJBPQ5B_vqA&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| BAYRES TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5tYhlwQGibio4Qfd2D8WGUGhPNGDaqX9pQ&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| TDC FIRMAT
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5tYhlwQGibio4Qfd2D8WGUGhPNGDaqX9pQ&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| TDC FIRMAT
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w424233531.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFE2pBNVW7TuFKRVad8mlXvlGLe5wc6nM10w&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| GO TV FIRMAT
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFE2pBNVW7TuFKRVad8mlXvlGLe5wc6nM10w&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| GO TV FIRMAT
 https://channel.gotv.ar:1936/GOTV/GOTV.stream/chunklist_w1472519235.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw13Nj_VRnVc6ee0h7BY6iTNbjEDlEOVv4aw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| TELEVISION 33
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw13Nj_VRnVc6ee0h7BY6iTNbjEDlEOVv4aw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| TELEVISION 33
 https://tuvideoonline.com.ar:3703/stream/play.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga_qcTr3vn4F86D03QHrSCRwrNH6GMm54uw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CINE.AR
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga_qcTr3vn4F86D03QHrSCRwrNH6GMm54uw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYMtYkJPt_HQLbRiqJP3MVeyvZys1SV07IQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| ciudad magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcbiKuttE-gNkx1hSRlXkSX8ZYI-1XOiR6Q&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| canal 21 misiones
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcbiKuttE-gNkx1hSRlXkSX8ZYI-1XOiR6Q&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| canal 21 misiones
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9luQnaZdnVT0fHG9mcmWxbJ5lBq9L5Vqbg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| RADIO CANAL
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9luQnaZdnVT0fHG9mcmWxbJ5lBq9L5Vqbg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| RADIO CANAL
 http://204.199.3.2/.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqG5nE3jKVICByKvdFyNZQxVSVM0qavsirQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| ITEL TV CANAL 2
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqG5nE3jKVICByKvdFyNZQxVSVM0qavsirQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| ITEL TV CANAL 2
 https://proxy.itel.com.ar/output/iteltv/track_0_512/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="⭐️ Argentina",🇦🇷| Buena TV 
+EXTINF:-1 tvg-logo="https://i.imgur.com/tsajuxi.png" group-title="⭐️ Argentina",🇦🇷| Buena TV 
 https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="⭐️ Argentina",🇦🇷| COCO TV 
+EXTINF:-1 tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="⭐️ Argentina",🇦🇷| COCO TV 
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="⭐️ Argentina",🇦🇷| Teleplay Sureste 
+EXTINF:-1 tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="⭐️ Argentina",🇦🇷| Teleplay Sureste 
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="⭐️ Argentina",🇦🇷| Cool TV 
+EXTINF:-1 tvg-logo="https://i.imgur.com/2tFrjUz.png" group-title="⭐️ Argentina",🇦🇷| Cool TV 
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="⭐️ Argentina",🇦🇷| Diez TV Las Villas 
+EXTINF:-1 tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="⭐️ Argentina",🇦🇷| Diez TV Las Villas 
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BVsotpP.png" group-title="⭐️ Argentina",🇦🇷| Dimelo TV 
+EXTINF:-1 tvg-logo="https://i.imgur.com/BVsotpP.png" group-title="⭐️ Argentina",🇦🇷| Dimelo TV 
 https://cloud2.streaminglivehd.com:19360/8062/8062.m3u8
-#EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="⭐️ Argentina",🇦🇷| NEO TV DIGITAL  16.1
+EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/logo-neo-tv_orig.png" group-title="⭐️ Argentina",🇦🇷| NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
-#EXTINF:-1 tvg-id="VTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/vertvgs/picture?width=320&height=320" group-title="⭐️ Argentina",🇦🇷| VerTV 
+EXTINF:-1 tvg-id="VTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/vertvgs/picture?width=320&height=320" group-title="⭐️ Argentina",🇦🇷| VerTV 
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRns7r0-gbCblmPyIytcbpJTWyNLm0vXrSUDw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| yguazu tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRns7r0-gbCblmPyIytcbpJTWyNLm0vXrSUDw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| yguazu tv
 https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqUJ9k2i7lAEkjapjuxBD3yRlCDtYwEtzXg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| rtn del Neuquén 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqUJ9k2i7lAEkjapjuxBD3yRlCDtYwEtzXg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| rtn del Neuquén 
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="⭐️ Argentina",🇦🇷| Aire de Santa Fe
+EXTINF:-1 tvg-id="AiredeSantaFe.ar" tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="⭐️ Argentina",🇦🇷| Aire de Santa Fe
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cEW93lz1kcfrqAfmWX4D7_wynEdvjSm4ng&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| bbc en español 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9cEW93lz1kcfrqAfmWX4D7_wynEdvjSm4ng&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| bbc en español 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="Aunar.ar" tvg-logo="https://i.imgur.com/BfaCaZF.png" group-title="⭐️ Argentina",🇦🇷| Aunar
+EXTINF:-1 tvg-id="Aunar.ar" tvg-logo="https://i.imgur.com/BfaCaZF.png" group-title="⭐️ Argentina",🇦🇷| Aunar
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
-#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-country="AR-R" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpeIl4GpFN8E54QSvD0HwOPsEDC0F5y3o_A&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| Canal 10 Rio Negro 
+EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-country="AR-R" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpeIl4GpFN8E54QSvD0HwOPsEDC0F5y3o_A&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| Canal 10 Rio Negro 
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBYRAgDTglfAc3BqeiI_m3-xqpPVWeQxMtw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CANAL 8 MAR DEL PLATA
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBYRAgDTglfAc3BqeiI_m3-xqpPVWeQxMtw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CANAL 8 MAR DEL PLATA
 https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="⭐️ Argentina",🇦🇷| CINE
+EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="⭐️ Argentina",🇦🇷| CINE
 https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| IU TV 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| IU TV 
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHELvpwU3M3IjESp_I1ZWC-XDeeSAZFqJt5g&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| a24
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHELvpwU3M3IjESp_I1ZWC-XDeeSAZFqJt5g&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| a24
 http://galaxypro.online:8080/FranklinBustos/092094FB/99742
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewV6QVqYeBWkmFgYJFfz6Gc5TAR3LpKVuKg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| c5n
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewV6QVqYeBWkmFgYJFfz6Gc5TAR3LpKVuKg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| c5n
 http://vipfortic.top:8080/VIP011169560187823/49ae8d3ec477/4728
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5vRVGkdgGMYkSotVzxq68sb78kCZiY1LTg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 26
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr5vRVGkdgGMYkSotVzxq68sb78kCZiY1LTg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 26
 http://galaxypro.online:8080/FranklinBustos/092094FB/99747
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhH2q2uo78wXwSGAQG6kkW_ju3Gv-u-RcHMg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| cronica tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhH2q2uo78wXwSGAQG6kkW_ju3Gv-u-RcHMg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| cronica tv
 http://galaxypro.online:8080/FranklinBustos/092094FB/99749
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-9Fs8V1Q09HR1f3IcZEBOtpY4dyHNFoirw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 12 cordoba
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-9Fs8V1Q09HR1f3IcZEBOtpY4dyHNFoirw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 12 cordoba
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2J_S415jBOCxStwPlBRhkIBQaFitOHaux1Q&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| el 9 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2J_S415jBOCxStwPlBRhkIBQaFitOHaux1Q&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| el 9 
 http://rasaiptv.com:8080/daniel63/654321/81270
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGYYMqhNHRsLNIdw0-so-V5A7CRC3V4L2LHQ&usqp=CAU  "group-title="⭐️ Argentina",🇦🇷 | canal 10 MAR DE PLATA
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGYYMqhNHRsLNIdw0-so-V5A7CRC3V4L2LHQ&usqp=CAU  "group-title="⭐️ Argentina",🇦🇷 | canal 10 MAR DE PLATA
 https://g2.vxral-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_360p.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPhoFhNaKTbK9_KRA_2UcTZmt_GaTeL1VJw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| la nacion +
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPhoFhNaKTbK9_KRA_2UcTZmt_GaTeL1VJw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| la nacion +
 http://rasaiptv.com:8080/daniel63/654321/81323
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AL2KG609gUsk3OJFCgaC_REXJjbY5z24ww&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal rural
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AL2KG609gUsk3OJFCgaC_REXJjbY5z24ww&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxiDtFGlonYUu2hSD4i3MzyA8ZCcTd3f_x2w&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| net tv 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxiDtFGlonYUu2hSD4i3MzyA8ZCcTd3f_x2w&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| net tv 
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRUMGDhsjkP5tFWsCkT8IEyKFsGgA4IM3Dg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| todo noticias
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVRUMGDhsjkP5tFWsCkT8IEyKFsGgA4IM3Dg&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| todo noticias
 http://galaxypro.online:8080/FranklinBustos/092094FB/99764 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefPqVU5H5OySUjg4psoxMsvE0il693LasFw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| tv publica
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTefPqVU5H5OySUjg4psoxMsvE0il693LasFw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| tv publica
 http://galaxypro.online:8080/FranklinBustos/092094FB/99765
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMAVOz4LJ5fkaEGPKgbuiUj4TpFDQTQDknw&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| 24/7 noticias
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaMAVOz4LJ5fkaEGPKgbuiUj4TpFDQTQDknw&usqp=CAU  " group-title="⭐️ Argentina",🇦🇷| 24/7 noticias
 https://panel.host-live.com/6605140/smil:6605140.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFG0OdMv_zB2N-V_t0ABG8BKrzfQiz7hXVnw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| america tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFG0OdMv_zB2N-V_t0ABG8BKrzfQiz7hXVnw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| america tv
 http://tv14s.xyz:8080/hilton/123456/164881
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTVBd21l7uKarvUBsOA5_XD1_8nStWKe9AQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 13
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTVBd21l7uKarvUBsOA5_XD1_8nStWKe9AQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| canal 13
 http://galaxypro.online:8080/FranklinBustos/092094FB/99751
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8H-mu9a_WbdhyVIFxBS-MBNu6FpwUod4zg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| telefe
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh8H-mu9a_WbdhyVIFxBS-MBNu6FpwUod4zg&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| telefe
 http://tvbross.com:8090/live/TGfKi5GpAg/tMbyd8gzhx/17044.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fdzMkvWpn2C23u6RtZTJ6-dWC7oMmw1-IQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| Ciudad magazine
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_fdzMkvWpn2C23u6RtZTJ6-dWC7oMmw1-IQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| Ciudad magazine
 http://magmas5.com:8000/live/Y78PIVSQGY/ZTY3Y2FNXB/3550.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbE8PQX4yttSyYyZi7bNDsIVP1D3mWzqw4A&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| canal 6 posada
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbE8PQX4yttSyYyZi7bNDsIVP1D3mWzqw4A&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| canal 6 posada
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXRB9pBB4KLmXTMByfu2OjI-AAsyO1MWIhXw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| volver
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXRB9pBB4KLmXTMByfu2OjI-AAsyO1MWIhXw&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| volver
 http://loflato.top:8080/live/50169759543800/31697595438766/10068.ts
 
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSVd5jmGgsDPvrXG7qo_cl8E5GvHYdCoAS9w&usqp=CAU" group-title="⭐️ Perú",🇵🇪 PERÚ 🇵🇪
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSVd5jmGgsDPvrXG7qo_cl8E5GvHYdCoAS9w&usqp=CAU" group-title="⭐️ Perú",🇵🇪 PERÚ 🇵🇪
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbADmZIt2O1cj3np-6seOWCqP2JGXWP9zv-A&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | nativa tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbADmZIt2O1cj3np-6seOWCqP2JGXWP9zv-A&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | nativa tv
 https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-#EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png"  group-title="⭐️ Perú",🇵🇪 |  Willax Televisión
+EXTINF:-1 tvg-id="PE | Willax Televisión" tvg-name="PE | Willax Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Willax_Televisi%C3%B3n.png/275px-Willax_Televisi%C3%B3n.png"  group-title="⭐️ Perú",🇵🇪 |  Willax Televisión
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/2304.ts
-#EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"  group-title="⭐️ Perú",🇵🇪 | Latina Televisión
+EXTINF:-1 tvg-id="PE | Latina Televisión" tvg-name="PE | Latina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/1200px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png"  group-title="⭐️ Perú",🇵🇪 | Latina Televisión
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/2295.ts
-#EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="⭐️ Perú",🇵🇪 | La Tele
+EXTINF:-1 tvg-id="PE | La Tele" tvg-name="PE | La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/400px-LaTele_Per%C3%BA_2018_Logo.png" group-title="⭐️ Perú",🇵🇪 | La Tele
 http://bantel.iptvperu.tv:1935/transcoderip/latele_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="⭐️ Perú",🇵🇪 | América Televisión
+EXTINF:-1 tvg-id="PE | América Televisión" tvg-name="PE | América Televisión" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/PE/1194.png" group-title="⭐️ Perú",🇵🇪 | América Televisión
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/2290.ts
-#EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="⭐️ Perú",🇵🇪 | Panamericana Televisión
+EXTINF:-1 tvg-id="PE | Panamericana Televisión" tvg-name="PE | Panamericana Televisión" tvg-logo="https://panamericana.pe/imagenes/logo_2020.png?20210916" group-title="⭐️ Perú",🇵🇪 | Panamericana Televisión
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/2298.ts
-#EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="⭐️ Perú",🇵🇪 | Exitosa Televisión
+EXTINF:-1 tvg-id="PE | Exitosa Televisión" tvg-name="PE | Exitosa Televisión" tvg-logo="https://i0.wp.com/exitosanoticias.pe/v1/wp-content/uploads/2021/01/LOGO-EXITOSA-ROJO.png" group-title="⭐️ Perú",🇵🇪 | Exitosa Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="⭐️ Perú",🇵🇪 | TV Perú
+EXTINF:-1 tvg-id="PE | TV Perú" tvg-name="PE | TV Perú" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo.png" group-title="⭐️ Perú",🇵🇪 | TV Perú
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="⭐️ Perú",🇵🇪 | TV Perú Internacional
+EXTINF:-1 tvg-id="PE | TV Perú Internacional" tvg-name="PE | TV Perú Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/250px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="⭐️ Perú",🇵🇪 | TV Perú Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-#EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="⭐️ Perú",🇵🇪 | TV Perú Noticias
+EXTINF:-1 tvg-id="PE | TV Perú Noticias" tvg-name="PE | TV Perú Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/250px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="⭐️ Perú",🇵🇪 | TV Perú Noticias
 http://bantel.iptvperu.tv:1935/transcoderip/tvperunoticias_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="⭐️ Perú",🇵🇪 | Congreso TV
+EXTINF:-1 tvg-id="PE | Congreso TV" tvg-name="PE | Congreso TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Congreso_TV.png/250px-Congreso_TV.png" group-title="⭐️ Perú",🇵🇪 | Congreso TV
 http://bantel.iptvperu.tv:1935/astralocal/CanalDelCongreso/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="⭐️ Perú",🇵🇪 | Conectad2 Televisión
+EXTINF:-1 tvg-id="PE | Conectad2 TV" tvg-name="PE | Conectad2 TV" tvg-logo="https://cablego.com.pe/cache/logos256/CONECTA2.png" group-title="⭐️ Perú",🇵🇪 | Conectad2 Televisión
 https://live-evg4.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="⭐️ Perú",🇵🇪 | ATV
+EXTINF:-1 tvg-id="PE | Andina Televisión" tvg-name="PE | Andina Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/1200px-ATV_logo_2020.png" group-title="⭐️ Perú",🇵🇪 | ATV
 http://animalstream.pro:8080/live/1q2w3e4r5t/1q2w3e4r5t/25267.ts
-#EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="⭐️ Perú",🇵🇪 | ATV +
+EXTINF:-1 tvg-id="PE | Andina Televisión Plus" tvg-name="PE | Andina Televisión Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ATV%2B_logo_2020.png/175px-ATV%2B_logo_2020.png" group-title="⭐️ Perú",🇵🇪 | ATV +
 http://bantel.iptvperu.tv:1935/transcoderip/atvnoticias_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="⭐️ Perú",🇵🇪 | ATV Sur
+EXTINF:-1 tvg-id="PE | Andina Televisión Sur" tvg-name="PE | Andina Televisión Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/185px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="⭐️ Perú",🇵🇪 | ATV Sur
 http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="⭐️ Perú",🇵🇪 | PBO TV
+EXTINF:-1 tvg-id="PE | PBO TV" tvg-name="PE | PBO TV" tvg-logo="https://pboradio.minegocio21.com/wp-content/uploads/2020/10/logo278.jpg" group-title="⭐️ Perú",🇵🇪 | PBO TV
 https://cdn4.eco.cdn.moderntv.eu/econocable/stream/PBO/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DPBO_stream_py&_cdn_session=1829828268&_cdn_timestamp=1710396536&_cdn_token=d6433756cf639e9829710f793311eb6b37910393
-#EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="⭐️ Perú",🇵🇪 | Viva TV
+EXTINF:-1 tvg-id="PE | Viva TV" tvg-name="PE | Viva TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PyW6vij-.jpg/175px-PyW6vij-.jpg" group-title="⭐️ Perú",🇵🇪 | Viva TV
 http://bantel.iptvperu.tv:1935/transcoderip/vivatv_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="⭐️ Perú",🇵🇪 | USMP TV
+EXTINF:-1 tvg-id="PE | USMP TV" tvg-name="PE | USMP TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/USMP_TV_2017.svg/revision/latest/scale-to-width-down/56?cb=20210504214359&path-prefix=es" group-title="⭐️ Perú",🇵🇪 | USMP TV
 http://bantel.iptvperu.tv:1935/transcoderip/usmpmovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | USMP TV Música" tvg-name="PE | USMP TV Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/USMP_TV_M%C3%BAsica.png" group-title="⭐️ Perú",🇵🇪 | USMP TV Música
+EXTINF:-1 tvg-id="PE | USMP TV Música" tvg-name="PE | USMP TV Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/USMP_TV_M%C3%BAsica.png" group-title="⭐️ Perú",🇵🇪 | USMP TV Música
 http://bantel.iptvperu.tv:1935/transcoderip/usmptvmusicamovil_t6.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | Global Televisión
+EXTINF:-1 tvg-id="PE | Global Televisión" tvg-name="PE | Global Televisión" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMObN_3dPu0x6ipIMnQiPhMsWdYVDq5ZXCPA68_3m2KC_k9CT4VpttLSvI7f-mzLYi7w8&usqp=CAU" group-title="⭐️ Perú",🇵🇪 | Global Televisión
 http://bantel.iptvperu.tv:1935/transcoderip/global_t1/playlist.m3u8
-#EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="⭐️ Perú",🇵🇪 | Vinilos TV || Moyobamba
+EXTINF:-1 tvg-id="PE | Vinilos TV" tvg-name="PE | Vinilos TV" tvg-logo="https://playmax.tv/wp-content/uploads/2023/05/vinilostv-bn.png" group-title="⭐️ Perú",🇵🇪 | Vinilos TV || Moyobamba
 https://live.obslivestream.com/controversiatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Moyobamba Televisión" tvg-name="PE | Moyobamba Televisión" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="⭐️ Perú",🇵🇪 | Moyobamba Televisión || Moyobamba
+EXTINF:-1 tvg-id="PE | Moyobamba Televisión" tvg-name="PE | Moyobamba Televisión" tvg-logo="https://pbs.twimg.com/media/F-c9_loWcAAiEOL?format=png&name=small" group-title="⭐️ Perú",🇵🇪 | Moyobamba Televisión || Moyobamba
 https://live.obslivestream.com/mtv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="⭐️ Perú",🇵🇪 | Planeta TV || Moyobamba
+EXTINF:-1 tvg-id="PE | Planeta TV" tvg-name="PE | Planeta TV" tvg-logo="https://pbs.twimg.com/media/GIQ--qBWkAAUYm7?format=png&name=small" group-title="⭐️ Perú",🇵🇪 | Planeta TV || Moyobamba
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="⭐️ Perú",🇵🇪 | Radio Selva Televisión || Moyobamba
+EXTINF:-1 tvg-id="PE | Radio Selva TV" tvg-name="PE | Radio Selva TV" tvg-logo="https://pbs.twimg.com/media/FjqTml3XEAIyjNN?format=png&name=small" group-title="⭐️ Perú",🇵🇪 | Radio Selva Televisión || Moyobamba
 https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:-1 tvg-id="PE | Atmosfera TV" tvg-name="PE | Atmosfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="⭐️ Perú",🇵🇪 | Atmosfera TV || Moyobamba
+EXTINF:-1 tvg-id="PE | Atmosfera TV" tvg-name="PE | Atmosfera TV" tvg-logo="https://i0.wp.com/plugmedia.co/play/wp-content/uploads/2023/04/ATMOSFERA-LOGO.png?resize=300%2C79&ssl=1" group-title="⭐️ Perú",🇵🇪 | Atmosfera TV || Moyobamba
 http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
 
-#EXTINF:-1 tvg-logo=" https://thumbs.dreamstime.com/b/vector-logo-mexico-vector-logo-mexico-country-fridge-magnet-mexican-state-flag-original-brush-typeface-word-252331477.jpg " group-title="⭐️ Mexico",🇲🇽 MEXICO 🇲🇽
+EXTINF:-1 tvg-logo=" https://thumbs.dreamstime.com/b/vector-logo-mexico-vector-logo-mexico-country-fridge-magnet-mexican-state-flag-original-brush-typeface-word-252331477.jpg " group-title="⭐️ Mexico",🇲🇽 MEXICO 🇲🇽
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYlyPSJrzQiDmNHeK306g-gZxRbEyNT6ITw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | amx noticias
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXYlyPSJrzQiDmNHeK306g-gZxRbEyNT6ITw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | amx noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa1EQNLmSN2dHT4p1FPbwj3-qbAG2Zu3wnIA&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca internacional
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa1EQNLmSN2dHT4p1FPbwj3-qbAG2Zu3wnIA&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYZDuOAV8NqLdpDaYTHHsM79CKaWl-wEeig&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | canal 10 cancun
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYZDuOAV8NqLdpDaYTHHsM79CKaWl-wEeig&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | canal 10 cancun
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0z3baHh3rZtm7jsa4rsh6xmykKBQW8I8ZQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal 26
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI0z3baHh3rZtm7jsa4rsh6xmykKBQW8I8ZQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal 26
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PqI86LAZ2p_XL-KISFFpd_rse-RsUv2Mcg&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal 5
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7PqI86LAZ2p_XL-KISFFpd_rse-RsUv2Mcg&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal 5
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/97998.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3nDQISSJV9qVhZqp2bYWw8AAzXNwgFChdw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | las estrellas
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3nDQISSJV9qVhZqp2bYWw8AAzXNwgFChdw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | las estrellas
 http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/2548.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_dCICMcNEATq5XOd8pPJAAQxNy0xyofVCw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | lobo tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_dCICMcNEATq5XOd8pPJAAQxNy0xyofVCw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | lobo tv
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGdi1LeJOBg3M5XTiG-SwoEY00hnDV69dg7Q&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | multimedios Guadalajara 
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGroYqk4-3xHCdhWqfqbWUNB7l_jsohCqEw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | mega noticias
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGGroYqk4-3xHCdhWqfqbWUNB7l_jsohCqEw&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | mega noticias
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDVBpIvzILhcoXbDBh7muFT0WYXwmOwIf-g&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDVBpIvzILhcoXbDBh7muFT0WYXwmOwIf-g&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca tv
 https://live.info7.mx/info7/stream.m3u8
-#EXTINF:-1 tvg-logo="  https://pbs.twimg.com/profile_images/1723699899605405696/vBLF6CXR_400x400.jpg" group-title="⭐️ Mexico",🇲🇽 | televisa
+EXTINF:-1 tvg-logo="  https://pbs.twimg.com/profile_images/1723699899605405696/vBLF6CXR_400x400.jpg" group-title="⭐️ Mexico",🇲🇽 | televisa
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/98003.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfA7_nSmYDK53EmFucuXkg4gMEkaAjIirxuB4eQ_xzW6iYYttIkvVNUQc&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal claro
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfA7_nSmYDK53EmFucuXkg4gMEkaAjIirxuB4eQ_xzW6iYYttIkvVNUQc&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | canal claro
 http://newultra.xyz:8080/live/ARBOLTV/PV13ajLVB6KE/463.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsq4fj-odO_Uhq6PeOAVwSaCmYQV2KOc9BFA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | distrito comedia
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsq4fj-odO_Uhq6PeOAVwSaCmYQV2KOc9BFA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | distrito comedia
 http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/7104.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM12H71GdCCLJGXLROJ6zXs4oiqU6hRW0KMA&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | multimedios 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM12H71GdCCLJGXLROJ6zXs4oiqU6hRW0KMA&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | multimedios 
 http://cord-cutter.net:8080/live/bfKAm59/xC4vzDQ/57646.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wZW3RX-NHmIK5dmfJNFS-y0UNdKwayNXQQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca uno
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9wZW3RX-NHmIK5dmfJNFS-y0UNdKwayNXQQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | azteca uno
 http://directo.ddns.me:2082/live/restreamtvplux/Mhsi3wMSJSEjska343255/2547.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZEUt30oe6riZxBccEel431EDM7I6cyT5rg&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | az click
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsZEUt30oe6riZxBccEel431EDM7I6cyT5rg&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | az click
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/97988.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLUeAxJ9MfhCVHztoN1dS2iivTkIXuRWmZA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | az mundo
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLUeAxJ9MfhCVHztoN1dS2iivTkIXuRWmZA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | az mundo
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/97990.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSu1wVKQNrU1je2cohKmrMbw1PLezM2kMfw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | azteca 7
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSu1wVKQNrU1je2cohKmrMbw1PLezM2kMfw&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | azteca 7
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/97971.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLPr2b38fIfcj2Fmf5QFKBxQtGshWQwT7aQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | Milenio 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLPr2b38fIfcj2Fmf5QFKBxQtGshWQwT7aQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | Milenio 
 http://iptvhogar.club:25461/Ruben_Antunez/1576161527/2530
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwdb2csc_U9mj_iZI7NarF5wQaCIeTq1rXgg&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | gala tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwdb2csc_U9mj_iZI7NarF5wQaCIeTq1rXgg&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | gala tv
 http://iptvhogar.club:25461/Ruben_Antunez/1576161527/2535
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjbhna8o75Z-DJ2I5f3Ml5_AIeSQB0iO1uA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | unimas 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWjbhna8o75Z-DJ2I5f3Ml5_AIeSQB0iO1uA&usqp=CAU " group-title="⭐️ Mexico",🇲🇽 | unimas 
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/2033.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcit-WChlD2959l4myQw9OTs5-NGPk2MC0oQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | imagen tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcit-WChlD2959l4myQw9OTs5-NGPk2MC0oQ&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | imagen tv
 http://tv.iprotv.live/live/ProYeCtoX998/NuevaProyectoRw/98018.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2B582uUNffRO05j2pTkOyjFBiZHE9xYEv0g&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | GIK TV 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2B582uUNffRO05j2pTkOyjFBiZHE9xYEv0g&usqp=CAU" group-title="⭐️ Mexico",🇲🇽 | GIK TV 
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hynWhBVUzEBaKizk07A8fCt8bs_xK8BIKQ&usqp=CAU  "group-title="  ",🇲🇽 | Telemundo
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2hynWhBVUzEBaKizk07A8fCt8bs_xK8BIKQ&usqp=CAU  "group-title="  ",🇲🇽 | Telemundo
 http://cord-cutter.net:8080/live/bfKAm59/xC4vzDQ/56410.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCWvb7zXRxkbcElAoqEXtrTFmqfkneaysUTQ&s "group-title="⭐️ Colombia",🇨🇴 COLOMBIA 🇨🇴
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCWvb7zXRxkbcElAoqEXtrTFmqfkneaysUTQ&s "group-title="⭐️ Colombia",🇨🇴 COLOMBIA 🇨🇴
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZR-C5UmoEh1UH4eQMVHiUCAM-Y3HvArW4g&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |caracol
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZR-C5UmoEh1UH4eQMVHiUCAM-Y3HvArW4g&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |caracol
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/331.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3HbxHDouawwYfZij29v_jtTGKwY0Alyx5Y2TcgO2hA&s   "group-title="⭐️ Colombia",🇨🇴 Caracol Ahora
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3HbxHDouawwYfZij29v_jtTGKwY0Alyx5Y2TcgO2hA&s   "group-title="⭐️ Colombia",🇨🇴 Caracol Ahora
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8?uid=UkvWGGWbZqV4lDQGHxdc1QG1s1Ydsmql&sid=CPgMH1RXJTSfRz0AWUthN3ql9TPuLF9j&pid=HPgrsdjqhyWBbIDHAhkHO6NWLutIXeo8&an=screen&at=web-app&av=v6.0.70&ref=https%3A%2F%2Fwww.noticiascaracol.com%2F&res=432x243&without_cookies=false&listenerid=&dnt=true&adInsertionGoogleStreamId=01a08a9c-dcca-45cf-92f7-ef1ce18e3578:MRN2
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/db/CaracolHD22019.png/revision/latest?cb=20190829020531  "group-title="⭐️ Colombia", 🇨🇴 |Caracol HD2
+EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/db/CaracolHD22019.png/revision/latest?cb=20190829020531  "group-title="⭐️ Colombia", 🇨🇴 |Caracol HD2
 https://z3rnwqky5vt8mh2ufjpb4c.cdnministry.net:8443/hls/1x7yp48jdbxct7.m3u8?s=j1ZIOwbY-To-2N2TzLNoGQ&e=1729133748
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nnA0dmlam2xeI3ivqp6b28IfEVu3I8G1Gw&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | caracol internacional
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nnA0dmlam2xeI3ivqp6b28IfEVu3I8G1Gw&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | caracol internacional
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/335.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFBiHPStW9nmfS5WaZ4EuFPKf6QtTJKLwuQ&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | cablenoticias
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxFBiHPStW9nmfS5WaZ4EuFPKf6QtTJKLwuQ&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | cablenoticias
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/326.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |RCN TV
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMQN0cxjp2tbbMUIXB5JhBqoOkZ4ZL8GOs-Q&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |RCN TV
 http://190.60.38.114:1010/play/a086/index.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRK6-n735PRUOM-wA2Q0nnZ3xMG5ZsdDb5g&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | rcn mas
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRK6-n735PRUOM-wA2Q0nnZ3xMG5ZsdDb5g&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | rcn mas
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqWRMZEDhBGnGl1KqZuC5tIsTrCS5rdYvng&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | señal Colombia
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqWRMZEDhBGnGl1KqZuC5tIsTrCS5rdYvng&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QeCgzfLN0payaE_2i5UId15gSM28jFEMHg&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | tele Medellín
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3QeCgzfLN0payaE_2i5UId15gSM28jFEMHg&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | tele Medellín
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/355.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHuvSfuYHFtW1SvfV0nqOYiPWGhX0sN66-WA&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | telepacifico
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHuvSfuYHFtW1SvfV0nqOYiPWGhX0sN66-WA&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | telepacifico
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/357.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykw7AGd4MLbvcXZiXzMB8JIfcbqyCAsyleQ&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |canal 1
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSykw7AGd4MLbvcXZiXzMB8JIfcbqyCAsyleQ&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |canal 1
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8?uid=UkvWGGWbZqV4lDQGHxdc1QG1s1Ydsmql&sid=CPgMH1RXJTSfRz0AWUthN3ql9TPuLF9j&pid=VnTXcdij2iY8ynBN1sJRKhIB2VFh7MA2&an=c1_mediastream_vod&at=web-app&av=v6.0.70&ref=https%3A%2F%2Fcanal1.com.co%2F&res=408x229&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=ea7ec5cb-fc19-4deb-a7b2-61008b5bb8b1
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Q7gR_Ps4qNRPVElNTrJzlhrekg3xE15r2w&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |city tv
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Q7gR_Ps4qNRPVElNTrJzlhrekg3xE15r2w&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 |city tv
 http://br0ss.xyz:8090/live/1uzBQuF2FQ/jtFm50oNx0/45.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5S_-1FaUuakLw-cu_6PhskTQn-BSteFUtQw&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 |mas tv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5S_-1FaUuakLw-cu_6PhskTQn-BSteFUtQw&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 |mas tv
 https://video.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrItv_M-LHK7sc4C820-s9c65ZZbfwb9OQQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | canal 9
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIrItv_M-LHK7sc4C820-s9c65ZZbfwb9OQQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | canal 9
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMl5KAuwE9Z4Ohonq0BfoRbMygX4Q_oi7K4Q&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | canal vip
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMl5KAuwE9Z4Ohonq0BfoRbMygX4Q_oi7K4Q&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | canal vip
 https://play.cdn.enetres.net/B9E570CFE54949C7ABB985D4F8F77F7F021/02267/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLTDK-P4xw2qyuvMIpXo-azrclvjKofEvCA&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | cnc medellín
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLTDK-P4xw2qyuvMIpXo-azrclvjKofEvCA&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | cnc medellín
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4FVLQbPaH7jbIB-Tk5KB4ozA_0wce_P83A&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | ctv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4FVLQbPaH7jbIB-Tk5KB4ozA_0wce_P83A&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | ctv
 https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYr0qrPTzF8a63ke9_yS-CyEjIka-vn6I4AQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | eureka
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYr0qrPTzF8a63ke9_yS-CyEjIka-vn6I4AQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | eureka
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRlCXgrYElZwPXEaGbPuwInlmaIF-KQzuYQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | canal capital
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRlCXgrYElZwPXEaGbPuwInlmaIF-KQzuYQ&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | canal capital
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC502trIRFScCdyU3RyGvQa0JsvIo3K5P2zw&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | mi gente
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC502trIRFScCdyU3RyGvQa0JsvIo3K5P2zw&usqp=CAU" group-title="⭐️ Colombia",🇨🇴 | mi gente
 https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutelqZGblB0Wa670UTDKE49jMCFYmdi2tCA&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | noticiero 90 minutos
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSutelqZGblB0Wa670UTDKE49jMCFYmdi2tCA&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | noticiero 90 minutos
 https://cdns.livewave.co:8081/90minutoslive/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyGikmLTrYDLjTYP-6qHG4RVsNovYRjEmWA&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | cnc pasto
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxyGikmLTrYDLjTYP-6qHG4RVsNovYRjEmWA&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | cnc pasto
 https://hvtraficonew.ddns.net/pastocnc7/cnc7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuUXKCwvvLNzKhVuBq3acxnVWXCeC-LEO6bA&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | telecaribe 
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuUXKCwvvLNzKhVuBq3acxnVWXCeC-LEO6bA&usqp=CAU  " group-title="⭐️ Colombia",🇨🇴 | telecaribe 
 http://canal-pro.xyz/live/JokJok/qETRahtG2x/353.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPx6lCt9L32xn0fENaKpnuKiPyJorqz6q23Q&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | blu radio
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPx6lCt9L32xn0fENaKpnuKiPyJorqz6q23Q&usqp=CAU " group-title="⭐️ Colombia",🇨🇴 | blu radio
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8?uid=7oYfgJSWxRg9pb2achvA5G3t5NJixyb6&sid=94gDFBE2PS1my4QQqdtRmVRk1vwCNJ3f&pid=0AA5ER07blV8UYNLMcg0TLGJaYs7YEHl&an=screen&at=web-app&av=v6.0.45&ref=https%3A%2F%2Fwww.bluradio.com%2F&res=353x220&without_cookies=false&listenerid=&dnt=true
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTdZEO-BMntD7lKox6M8m1gf9030uI9sdJxA&s " group-title="⭐️ Venezuela",🇻🇪 VENEZUELA 🇻🇪
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTdZEO-BMntD7lKox6M8m1gf9030uI9sdJxA&s " group-title="⭐️ Venezuela",🇻🇪 VENEZUELA 🇻🇪
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbxxmBWxmcYiwWVSM_kfTbnvXfgISSaNLhw&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Televen
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhbxxmBWxmcYiwWVSM_kfTbnvXfgISSaNLhw&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Televen
 http://sdmx.vip:8080/live/yestv/eVW6aPPbUCD8/2154030.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKq8lxE09iynFl45PWMT8daYGOwTrLUbnSQ&usqp=CAU  " group-title="⭐️ Venezuela",🇻🇪 | venevisión
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZKq8lxE09iynFl45PWMT8daYGOwTrLUbnSQ&usqp=CAU  " group-title="⭐️ Venezuela",🇻🇪 | venevisión
 http://nuevavision.xyz:8080/live/tVRxKnkK6ZAp/m7rPjLYMaqwJ/56177.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLN5pC3DN-G2yBZGhss9YT0bWtDBuNG3zVWw&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Meridiano TV
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLN5pC3DN-G2yBZGhss9YT0bWtDBuNG3zVWw&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Meridiano TV
 http://home-playtv.com:8080/tVRxKnkK6ZAp/m7rPjLYMaqwJ/109086
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxJJx-kTqO5HKmDWUVa2ZfPEAdy7T6S37Kw&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | TVes
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrxJJx-kTqO5HKmDWUVa2ZfPEAdy7T6S37Kw&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | TVes
 http://sdmx.vip:8080/live/yestv/eVW6aPPbUCD8/2106070.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgpxiH0V6NhgQZBixRTrQ8hSaNKE1VnxJu0Q&usqp=CAU  " group-title="⭐️ Venezuela",🇻🇪 | Sun Channel
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgpxiH0V6NhgQZBixRTrQ8hSaNKE1VnxJu0Q&usqp=CAU  " group-title="⭐️ Venezuela",🇻🇪 | Sun Channel
 http://home-playtv.com:8080/tVRxKnkK6ZAp/m7rPjLYMaqwJ/439742
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60pBjjBMPJUrftAKqcWlQHs7CdPdD7qaOew&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Globovisión
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS60pBjjBMPJUrftAKqcWlQHs7CdPdD7qaOew&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Globovisión
 http://nuevavision.xyz:8080/live/tVRxKnkK6ZAp/m7rPjLYMaqwJ/439769.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfL8sF0dlEHI1P9NHPgrGwYvXbbbWBwUwOng&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | ANTV 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfL8sF0dlEHI1P9NHPgrGwYvXbbbWBwUwOng&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | ANTV 
 http://home-playtv.com:8080/tVRxKnkK6ZAp/m7rPjLYMaqwJ/439798
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTwxhqisFD6l33U18YAjYkIqzng95siWo8A&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | TLT
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdTwxhqisFD6l33U18YAjYkIqzng95siWo8A&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | TLT
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/72364
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWDdBI5T_NKObAyIM-3RGgTWQczaLKjsz6g&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | TV Familia 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGWDdBI5T_NKObAyIM-3RGgTWQczaLKjsz6g&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | TV Familia 
 http://home-playtv.com:8080/tVRxKnkK6ZAp/m7rPjLYMaqwJ/439813
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTMgUr2lPRjPL4ZM4YUdw-bqrPjDxDIdIWg&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | IVC
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRTMgUr2lPRjPL4ZM4YUdw-bqrPjDxDIdIWg&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | IVC
 http://nuevavision.xyz:8080/live/tVRxKnkK6ZAp/m7rPjLYMaqwJ/518559.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9-S9McQIc7IlvHjpPjKKrLHUzkg_JLUzZQ&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Canal I
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9-S9McQIc7IlvHjpPjKKrLHUzkg_JLUzZQ&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | Canal I
 http://nuevavision.xyz:8080/live/tVRxKnkK6ZAp/m7rPjLYMaqwJ/452102.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_VdwLXxAMRt21OGEuf-2f4ZtkUKvCCFqlw&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | telesur
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_VdwLXxAMRt21OGEuf-2f4ZtkUKvCCFqlw&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | telesur
 http://nuevavision.xyz:8080/live/tVRxKnkK6ZAp/m7rPjLYMaqwJ/452018.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQKSi1SXVq0ONREx-xs0VBCX7t4FSuJeSBQ&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | venevision plus
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQKSi1SXVq0ONREx-xs0VBCX7t4FSuJeSBQ&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | venevision plus
 http://home-playtv.com:8080/tVRxKnkK6ZAp/m7rPjLYMaqwJ/452101
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKSkjSCk02TtxDOGQEOD8mKZJo9Sqy_uHaw&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | tele Aragua
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTKSkjSCk02TtxDOGQEOD8mKZJo9Sqy_uHaw&usqp=CAU " group-title="⭐️ Venezuela",🇻🇪 | tele Aragua
 http://alfatv.lat:2082/live/User004/JpBHvzszt7qg/516513.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cqug5xQP5w845ObO0kyjaEc_x899FU0tIw&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | plus tv 
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2cqug5xQP5w845ObO0kyjaEc_x899FU0tIw&usqp=CAU" group-title="⭐️ Venezuela",🇻🇪 | plus tv 
 https://vcp7.myplaytv.com/glowtv/glowtv/chunklist_w360420657.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqknnSvAHLo9zVfWLBmSCSTzx1HiTObviI8A&s"  group-title="⭐️ Costa Rica",🇨🇷COSTA RICA🇨🇷
+EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqknnSvAHLo9zVfWLBmSCSTzx1HiTObviI8A&s"  group-title="⭐️ Costa Rica",🇨🇷COSTA RICA🇨🇷
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 6  
+EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-name="CR| Repretel Canal 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTi0lF0a1KL_pAcuUauJ7kZoxrVw4lf5caOA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 6  
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWo711LZmXezQxTySwR9mqz
-#EXTINF:-1 tvg-id="" tvg-name="06 | Santa Cruz Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bs3fXhgB0jK9qD0gqO3v4p3HgEzqzJAi1w&usqp=CAU"  group-title="⭐️ Costa Rica",CR|  limon Tv  
+EXTINF:-1 tvg-id="" tvg-name="06 | Santa Cruz Tv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4bs3fXhgB0jK9qD0gqO3v4p3HgEzqzJAi1w&usqp=CAU"  group-title="⭐️ Costa Rica",CR|  limon Tv  
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
+EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQLfE2riQA9_rOAnfCXdANFOLwDyJFAHZRQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 2  
 https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELESISTEMA  
+EXTINF:-1 tvg-id="" tvg-name="TELESISTEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELESISTEMA  
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="05 | REPRETEL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXDVABuqWZOU_PWrDSMCgKZBpK1mbgqkdJw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| rttv
+EXTINF:-1 tvg-id="" tvg-name="05 | REPRETEL 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXDVABuqWZOU_PWrDSMCgKZBpK1mbgqkdJw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| rttv
 https://acceso.radiosportstv.online:3151/live/turrialbatvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07 | STV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMtwaot_x4CyP8_4iGEcio9aHrmK_R-HEA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| STV  
+EXTINF:-1 tvg-id="" tvg-name="07 | STV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSmMtwaot_x4CyP8_4iGEcio9aHrmK_R-HEA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| STV  
 https://lstv.duckdns.org:449/hls/stv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="07 | STV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSavoAxHXB_kdJD-yHe9rpFXWhwyuMI_2FJQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| San vito tv
+EXTINF:-1 tvg-id="" tvg-name="07 | STV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSavoAxHXB_kdJD-yHe9rpFXWhwyuMI_2FJQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| San vito tv
 https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QEfWHe7Xf5GOSCz4VLtsBI-Gya9--GVLlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tv Sur canal 14
+EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QEfWHe7Xf5GOSCz4VLtsBI-Gya9--GVLlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tv Sur canal 14
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRA3sFkiH04l8_YN53KEqSiMWSWtAmtv3Zw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELE UNO
+EXTINF:-1 tvg-id="" tvg-name="08 | Tv Sur canal 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPRA3sFkiH04l8_YN53KEqSiMWSWtAmtv3Zw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TELE UNO
 https://5d16127744872.streamlock.net:443/TVUNO/TVUNO/chunklist_w262196908.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10 | SAN JOSE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKy32Y3iI5Zi8yZ8RTk-Dv-i9oanmEuzUZw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| colosal
+EXTINF:-1 tvg-id="" tvg-name="10 | SAN JOSE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrKy32Y3iI5Zi8yZ8RTk-Dv-i9oanmEuzUZw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| colosal
 https://5d16127744872.streamlock.net/canal3/canal3/chunklist_w1741700508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="12 | Teletica 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9o8DBWfES2WcZ12IBUOvcNHDpENN11u00g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Teletica 7  
+EXTINF:-1 tvg-id="" tvg-name="12 | Teletica 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9o8DBWfES2WcZ12IBUOvcNHDpENN11u00g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Teletica 7  
 http://tvbross.com:8090/comandoalmache/almache2022../2355
-#EXTINF:-1 tvg-id="" tvg-name="13 | Telered" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tele red  
+EXTINF:-1 tvg-id="" tvg-name="13 | Telered" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU0IdCCCR2mtKHb7D9_A9ybiCC2cm1-EKgQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Tele red  
 http://home-playtv.com:8080/TomasLobo31/RGYNP/11005
-#EXTINF:-1 tvg-id="" tvg-name="14 | Mastv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE--9EOA_H3vz5ix4Y-UIyrCrqGNCe-xu9pw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| extrema tv  
+EXTINF:-1 tvg-id="" tvg-name="14 | Mastv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE--9EOA_H3vz5ix4Y-UIyrCrqGNCe-xu9pw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| extrema tv  
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w187480783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21 | Multimedios Canal 8 HD" tvg-id="" tvg-name="CR| Multimedios" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9REhLS4hjKN0DZ8wS9JT5z0d-XA7gD91pQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Multimedios Canal 8  
+EXTINF:-1 tvg-id="" tvg-name="21 | Multimedios Canal 8 HD" tvg-id="" tvg-name="CR| Multimedios" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9REhLS4hjKN0DZ8wS9JT5z0d-XA7gD91pQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| Multimedios Canal 8  
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?uid=4BnIrqBAya3dNwdzlHJbDCHkav5h2sJI&sid=WbeX9TEG8XEvcdwxjgxolSPx7JU2KubT&pid=GlGumUmjQVeXVAlEJ0ww9IiECTGglRTr&an=screen&at=web-app&av=v5.2.411&ref=https%3A%2F%2Famp.telediario.cr%2F&res=372x186&without_cookies=false&listenerid=&dnt=true
-#EXTINF:-1 tvg-id="" tvg-name="23 | Ticavision Canal 52 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mKu5NIHtHJMWMpE3CwjaUt4YejV1ur5T1w&usqp=CAU"  group-title="⭐️ Costa Rica",CR| voice over
+EXTINF:-1 tvg-id="" tvg-name="23 | Ticavision Canal 52 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1mKu5NIHtHJMWMpE3CwjaUt4YejV1ur5T1w&usqp=CAU"  group-title="⭐️ Costa Rica",CR| voice over
 http://galaxypro.online:8080/Jaime12P/JaimeU14/222328
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDkpyfDL4aVT_YseRom0PC1cTlbq_v2Mvig&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 11  
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgDkpyfDL4aVT_YseRom0PC1cTlbq_v2Mvig&usqp=CAU"  group-title="⭐️ Costa Rica",CR| REPRETEL 11  
 http://home-playtv.com:8080/TomasLobo31/RGYNP/200549
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoRq757CbiO_PybhbLxyZDXkqrFSpT_tvcg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TRIVISION
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoRq757CbiO_PybhbLxyZDXkqrFSpT_tvcg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| TRIVISION
 https://liveingesta118.cdnmedia.tv:443/trivision36live/dvrlive-1500/chunklist.m3u8?DVR
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPG5piatlxvTYlqm8-gdB6qOzJAPusjWRSw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| CANAL 1
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA | 11 REPRETEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKPG5piatlxvTYlqm8-gdB6qOzJAPusjWRSw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| CANAL 1
 https://video20.klm99.com:3993/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| coto brus tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUmg188E2X2bAX9Vj2B542ISVrz5D3LkgTg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| coto brus tv
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhqwBftSfMu15hwXmFloirFOU7GfzvhtSYw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| costa rica channel
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwhqwBftSfMu15hwXmFloirFOU7GfzvhtSYw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| costa rica channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU"  group-title="⭐️ Costa Rica",CR| teve norte
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuH2pNcjfEx1y0_sfIIg287VbEw-yJ5L6ig&usqp=CAU"  group-title="⭐️ Costa Rica",CR| teve norte
 https://stream.tvn14.com:443/TVN/CH14.stream_720p/chunklist_w795859987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| garabito tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| garabito tv
 https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| los santos tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkAHmCkkPzREUAjSuIcHtIxhLdD2QIFI9FQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| los santos tv
 https://lstv.duckdns.org:449/hls/lstv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBtNLdHLTTL4AA_waKvvrR_4P5hfvaBIEPA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| CDM 
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMBtNLdHLTTL4AA_waKvvrR_4P5hfvaBIEPA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| CDM 
 https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w1648534825.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VoP8SblVK8J8dPnYOxYce0v1WCUzdmZPbA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| opa tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5VoP8SblVK8J8dPnYOxYce0v1WCUzdmZPbA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| opa tv
 https://opa.usastreams.com:3101/live/canalopalive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| dreico tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStegGK7lJVA6n8O-Qsy48-NJ-xOs_LMsJJGQ&usqp=CAU"  group-title="⭐️ Costa Rica",CR| dreico tv
 https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXKvSAPUCvc4uVZyVnxwqF4D_AoIIhII-fA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| retro tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkXKvSAPUCvc4uVZyVnxwqF4D_AoIIhII-fA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| retro tv
 https://ssh101-fl.bozztv.com:443/ssh101/retrotvcr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JigVOQIoYSSxoZFJsooZPofxDzixe3kcSg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| retro palmares
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JigVOQIoYSSxoZFJsooZPofxDzixe3kcSg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| retro palmares
 https://ssh101.bozztv.com/ssh101/tvretropalmares/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BjdFAHmD6IcxcQ8E3Lt2-cONkp0a7-L5Cg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| cartago tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5BjdFAHmD6IcxcQ8E3Lt2-cONkp0a7-L5Cg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| cartago tv
 http://home-playtv.com:8080/TomasLobo31/RGYNP/188251
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp40G7FXkmvZsfnv5ohaLv6heiMK7wXC6lg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| retrox tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUp40G7FXkmvZsfnv5ohaLv6heiMK7wXC6lg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| retrox tv
 https://tvservices.fullhd-streaming.com:3867/live/retroxtvlive.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1bJxBhCtpZPJAwG2Cp15OJ7turfIu2kdlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| crtv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw1bJxBhCtpZPJAwG2Cp15OJ7turfIu2kdlw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| crtv
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVQC1pxD-iRygI6scQ3tMSjoeLa50WwJP-Q&usqp=CAU"  group-title="⭐️ Costa Rica",CR| cable sur
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIVQC1pxD-iRygI6scQ3tMSjoeLa50WwJP-Q&usqp=CAU"  group-title="⭐️ Costa Rica",CR| cable sur
 
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnB_cbq2X1wNmTVecnawBLsDS77qXXCe5zA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| nicoya tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnB_cbq2X1wNmTVecnawBLsDS77qXXCe5zA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| nicoya tv
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQng-FOAcEsdPYyV_6Q-rlB9w9SUeRXfLC8lg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| santa cruz 
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQng-FOAcEsdPYyV_6Q-rlB9w9SUeRXfLC8lg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| santa cruz 
 https://rtmp.info/tvsantacruz/envivo/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKVMGj_1YXfJdJrgE6bhzT9HEVVBDZ1Epww&usqp=CAU"  group-title="⭐️ Costa Rica",CR| mega tvr
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqKVMGj_1YXfJdJrgE6bhzT9HEVVBDZ1Epww&usqp=CAU"  group-title="⭐️ Costa Rica",CR| mega tvr
 
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qp48vAYubW5h4Tupl_Pzwfb7U-YQx0DOyA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| zurqui tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qp48vAYubW5h4Tupl_Pzwfb7U-YQx0DOyA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| zurqui tv
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4uLGOuQaNRSDK8lSiCjICHX0Ld_weJoskA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| telebrunca
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU4uLGOuQaNRSDK8lSiCjICHX0Ld_weJoskA&usqp=CAU"  group-title="⭐️ Costa Rica",CR| telebrunca
 https://59ef525c24caa.streamlock.net:443/telebrunca/telebrunca/chunklist_w1244906677.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBfQDrgA2AgPmHZaHHwtiDxGn3Wp1XnoI6g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| guatuso tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHBfQDrgA2AgPmHZaHHwtiDxGn3Wp1XnoI6g&usqp=CAU"  group-title="⭐️ Costa Rica",CR| guatuso tv
 https://5cf4a2c2512a2.streamlock.net:443/8162/8162/chunklist_w1960322809.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8iD7__CFQj8ZebSiFXKZWCMXQeVcYeJCzw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| sinart canal 13
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP8iD7__CFQj8ZebSiFXKZWCMXQeVcYeJCzw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| sinart canal 13
 http://home-playtv.com:8080/TomasLobo31/RGYNP/108112
-#EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| nosara tv
+EXTINF:-1 tvg-id="" tvg-name="COSTA RICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmicNPv2oKTqz_SanYW6rhyFP-yNtbBMoJRw&usqp=CAU"  group-title="⭐️ Costa Rica",CR| nosara tv
 https://stmv.streamingvip.click:443/tvnosara2/tvnosara2/chunklist_w846594311.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mgz67cRrUyWUVefPZpXVTt6U9YJOSQMLUg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| 88 stereo
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0mgz67cRrUyWUVefPZpXVTt6U9YJOSQMLUg&usqp=CAU"  group-title="⭐️ Costa Rica",CR| 88 stereo
 http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9oy_aCq729tFEALyZ470gbFfwehpycd8Arw&usqp=CAU" group-title="⭐️ Costa Rica",CR | canal 10
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9oy_aCq729tFEALyZ470gbFfwehpycd8Arw&usqp=CAU" group-title="⭐️ Costa Rica",CR | canal 10
 https://acceso.radiosportstv.online:3138/stream/play.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5V7S_vFccYinwwwwbRLZfhoFlkHGd4zlnzg&usqp=CAU " group-title="⭐️ Costa Rica",CR | canal 10.1
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5V7S_vFccYinwwwwbRLZfhoFlkHGd4zlnzg&usqp=CAU " group-title="⭐️ Costa Rica",CR | canal 10.1
 https://acceso.radiosportstv.online:3384/stream/play.m3u8
-#EXTINF-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRiU5rU8_TPXxRDAZcCgV4zVXRxGshHfEwA&usqp=CAU  " group-title="⭐️ Costa Rica", expert tv 33
+EXTINF-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqRiU5rU8_TPXxRDAZcCgV4zVXRxGshHfEwA&usqp=CAU  " group-title="⭐️ Costa Rica", expert tv 33
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamXperTv/b7dccb67bc9db09ff24bb7bea126c692.sdp/StreamXperTv/xpertv10stream2/chunks.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNb4pg3ucaHbFVWLPH3gNEWW9-3zuv-OEOcg&usqp=CAU " group-title="⭐️ Costa Rica", td max +futbol
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNb4pg3ucaHbFVWLPH3gNEWW9-3zuv-OEOcg&usqp=CAU " group-title="⭐️ Costa Rica", td max +futbol
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/TdmaxFutbol/229feeb109fa4f66876d49e563932c89.sdp/TdmaxFutbol/tdmaxstream1/chunks.m3u8
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title="⭐️ Costa Rica", td +
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeBOTDiQH1c8Hgn-4FlsRP1zzbrel6AsbqQ&usqp=CAU" group-title="⭐️ Costa Rica", td +
 http://bolgenco.xyz:2082/live/Adrian3conex/CWEkQs8pQKXd/472255.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title="⭐️ Costa Rica", td + 2
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5DCwqwumvaddhj_uHZb6WC07NYqPodspRQ&usqp=CAU" group-title="⭐️ Costa Rica", td + 2
 http://novared.pro:8080/motors/checkmotors131021/218729
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1cdvzYdpfyzWy1wzYFOzS7HQlrk8XIkWrA&usqp=CAU " group-title="⭐️ Costa Rica", futv
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1cdvzYdpfyzWy1wzYFOzS7HQlrk8XIkWrA&usqp=CAU " group-title="⭐️ Costa Rica", futv
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NlvZqfcxq5v5zov8CO0JvAy5bExv5KZbsYaYPV4At7D_g4Kyi-BqBDiunQ&s=CAU " group-title="⭐️ Costa Rica", tigo sports (costa rica)
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0NlvZqfcxq5v5zov8CO0JvAy5bExv5KZbsYaYPV4At7D_g4Kyi-BqBDiunQ&s=CAU " group-title="⭐️ Costa Rica", tigo sports (costa rica)
 http://201.159.113.219:49000/play/a04x/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlhtIUNOVT9QfY96ZrsreL2HGXBUIEHHT5g&usqp=CAU" group-title="⭐️ Panama",🇵🇦 PANAMA 🇵🇦
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlhtIUNOVT9QfY96ZrsreL2HGXBUIEHHT5g&usqp=CAU" group-title="⭐️ Panama",🇵🇦 PANAMA 🇵🇦
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15kGIdYPo_HsBp1Phz7fuTzOFyKc15XFdbA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | A&R Canal
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT15kGIdYPo_HsBp1Phz7fuTzOFyKc15XFdbA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | A&R Canal
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTE19vZznZXLR26b1c9lsNGpCmUW2adLBEPA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Fabulosa Estereo 100.5 FM
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTE19vZznZXLR26b1c9lsNGpCmUW2adLBEPA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Fabulosa Estereo 100.5 FM
 https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxthyNfakTLlKtaL3YtIh9TJhi_sB_K5bGg&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Hispania TV
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyxthyNfakTLlKtaL3YtIh9TJhi_sB_K5bGg&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Hispania TV
 https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSLMeK_JXBxWou3v6-IznUqiZV8oWfMXuJA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Hosanna Vision
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfSLMeK_JXBxWou3v6-IznUqiZV8oWfMXuJA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Hosanna Vision
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1u81bPx6vhT98F0fUBpeyIak92bv0UXd8A&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Mas23 TV
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV1u81bPx6vhT98F0fUBpeyIak92bv0UXd8A&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Mas23 TV
 https://vcp8.myplaytv.com:1936/mas23/mas23/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2B9Re3t5MFGsgf5yVOLhSVWxyR47P2ClZ2Q&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | MINFAV TV
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2B9Re3t5MFGsgf5yVOLhSVWxyR47P2ClZ2Q&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | MINFAV TV
 https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1Y_fys5S9TaJxA9ucYkB-uyy8YNaSA7qvA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Nex TV Canal 21
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi1Y_fys5S9TaJxA9ucYkB-uyy8YNaSA7qvA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Nex TV Canal 21
 https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JuWb2QZ4gEbwnPBKRl4P6qvoVLXPS-Evcw&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Planet 100.9 FM
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5JuWb2QZ4gEbwnPBKRl4P6qvoVLXPS-Evcw&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Planet 100.9 FM
 https://stream.mixesurbanospty.com:8030/live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGoMuTLcL8IN4TPYKz_hUdd5Dl1VEPnJoe6g&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Radio Ancon
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGoMuTLcL8IN4TPYKz_hUdd5Dl1VEPnJoe6g&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | Radio Ancon
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1AWuu5OP9noO8GZ2I0I_beiMEExRjhO36Q&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | TVMax
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1AWuu5OP9noO8GZ2I0I_beiMEExRjhO36Q&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | TVMax
 http://galaxypro.online:8080/live/AaronFalcones/0980409204AF/281584.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfI_MGOgel6siveW_HIt-VrMyo0XPnCUSHLg&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | TVN
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfI_MGOgel6siveW_HIt-VrMyo0XPnCUSHLg&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | TVN
 http://galaxypro.online:8080/live/AaronFalcones/0980409204AF/227832.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuHeK32UYdNSAEu-UxKTPsUP7Wa4dr6nrsgg&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | canal 13
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuHeK32UYdNSAEu-UxKTPsUP7Wa4dr6nrsgg&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | canal 13
 http://novared.pro:8080/live/AnThoNyC81/ThoNYcAn18/135617.ts
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-QVfDKxyc7GqIIvqMfAtqgzF2ZqbhzvDcA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | canal 4 rpc
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-QVfDKxyc7GqIIvqMfAtqgzF2ZqbhzvDcA&usqp=CAU" group-title="⭐️ Panama",🇵🇦 | canal 4 rpc
 http://offshore.lat/live/98Gw3yq6VuqF/7n2HhDt3UUtb/267829.ts
 
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKA_fEgsUSCG-0x6Fubq3_brlsjzaJcH7cA&s" group-title="⭐️ Bolivia",🇧🇴 BOLIVIA 🇧🇴
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKA_fEgsUSCG-0x6Fubq3_brlsjzaJcH7cA&s" group-title="⭐️ Bolivia",🇧🇴 BOLIVIA 🇧🇴
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-amCIZae60B5gCtEE7nbRyJqwwXHJ5_C-g&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVISION
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-amCIZae60B5gCtEE7nbRyJqwwXHJ5_C-g&usqp=CAU" group-title="⭐️ Bolivia",🇧🇴 | BOLIVISION
 http://bazarpremium.digital:80/live/cris673ara/EyB5dmLvNUKZ/392985.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrHgZRtZTXTv4vhdvHkoebeeavNumgCoJUw&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | red uno 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQrHgZRtZTXTv4vhdvHkoebeeavNumgCoJUw&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | red uno 
 http://2.00322.xyz:8000/live/P2SpeedR24/048TkmP2Speed/131660.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKajNS6jXyxeYleB0X3Wo97Ar-OZeL_EjJg&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | unitel 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKajNS6jXyxeYleB0X3Wo97Ar-OZeL_EjJg&usqp=CAU " group-title="⭐️ Bolivia",🇧🇴 | unitel 
 http://bazarpremium.digital:80/live/cris673ara/EyB5dmLvNUKZ/392994.ts
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png"group-title="⭐️ Deportes NL",🇳🇱 |ESPN 1
+EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png"group-title="⭐️ Deportes NL",🇳🇱 |ESPN 1
 http://smart.osmartd10.xyz:80/live/Fabe1101L/Apweawfte123/998783.ts
-#EXTINF:-1 tvg-logo=" https://www.delta.nl/media/2330/espn2-delta.png?anchor=center&mode=crop&width=300&rnd=132531237860070000  "group-title="⭐️ Deportes NL",🇳🇱 |ESPN 2
+EXTINF:-1 tvg-logo=" https://www.delta.nl/media/2330/espn2-delta.png?anchor=center&mode=crop&width=300&rnd=132531237860070000  "group-title="⭐️ Deportes NL",🇳🇱 |ESPN 2
 http://smart.osmartd10.xyz:80/live/Fabe1101L/Apweawfte123/1005815.ts
-#EXTINF:-1 tvg-logo=" https://www.delta.nl/media/2331/espn3-delta.png?anchor=center&mode=crop&width=300&rnd=132531239549930000  "group-title="⭐️ Deportes NL",🇳🇱 |ESPN 3
+EXTINF:-1 tvg-logo=" https://www.delta.nl/media/2331/espn3-delta.png?anchor=center&mode=crop&width=300&rnd=132531239549930000  "group-title="⭐️ Deportes NL",🇳🇱 |ESPN 3
 http://00322.xyz:8000/andyf73/Q01RRG9TT0/127100
-#EXTINF:-1 tvg-logo=" https://www.delta.nl/media/2332/espn4-delta.png?anchor=center&mode=crop&width=300&rnd=132531240611070000  "group-title="⭐️ Deportes NL",🇳🇱 |ESPN 4
+EXTINF:-1 tvg-logo=" https://www.delta.nl/media/2332/espn4-delta.png?anchor=center&mode=crop&width=300&rnd=132531240611070000  "group-title="⭐️ Deportes NL",🇳🇱 |ESPN 4
 http://salatadeicre.store:8080/eugen_vasile_groza/Rzv5yxjruF/72827
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiICta-msGjINq0OfjKgRA9xWSVdOEoTirbQ&s  "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay 
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiICta-msGjINq0OfjKgRA9xWSVdOEoTirbQ&s  "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay 
 http://smart.osmartd10.xyz:80/live/Fabe1101L/Apweawfte123/1031304.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiICta-msGjINq0OfjKgRA9xWSVdOEoTirbQ&s "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay F1
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiICta-msGjINq0OfjKgRA9xWSVdOEoTirbQ&s "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay F1
 http://pro.lsscover.cc:8080/live/882471/4643685/311236.ts
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png  "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay tv
+EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png  "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay tv
 http://iptv.darktv.in:80/Ibo.duyar/bwbe4PM8/151273
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png  "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay premier league
+EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/3/3c/Viaplay_logo.png  "group-title="⭐️ Deportes NL",🇳🇱 |Viaplay premier league
 http://113001332371577032.ofds1114.xyz:80/live/te322945/CbtYHDcS5@/989641.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport1
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport1
 http://wanicelife.com:8880/live/6mc220035/64161548/31504.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport2
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport2
 http://wanicelife.com:8880/live/6mc220035/64161548/31405.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport3
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport3
 http://wanicelife.com:8880/live/6mc220035/64161548/31366.ts
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport4
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&usqp=CAU "group-title="⭐️ Deportes NL",🇳🇱 |ziggo sport4
 http://00322.xyz:8000/andyf73/Q01RRG9TT0/127059
 
 
