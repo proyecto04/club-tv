@@ -271,7 +271,8 @@ http://digital.nicesecrethotdigital.xyz:80/live/cor39/FxbCj7yHQr/970443.ts
 EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ opc.2 (colombia)
 http://digital.nicesecrethotdigital.xyz:80/live/cor39/FxbCj7yHQr/1027974.ts
 EXTINF:-1 tvg-id="" tvg-name="WIN SPORT +" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa9iUKf7e6EdC0sGXXNhraCLOo77y0YWMamQ&usqp=CAU" group-title="⚽ Deportes", WIN SPORT+ opc.3 (colombia)
-http://novared.pro:8080/live/12mPremiumMar37/x7bszzpyy3az/1383.ts#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt4RZ_1QOupYwN8NGj1d3lrWZ58y94i1Abg&usqp=CAU " group-title=" ⚽ Deportes ", vtv plus (uruguay)
+http://novared.pro:8080/live/12mPremiumMar37/x7bszzpyy3az/1383.ts
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLt4RZ_1QOupYwN8NGj1d3lrWZ58y94i1Abg&usqp=CAU " group-title=" ⚽ Deportes ", vtv plus (uruguay)
 http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/186609.ts
 EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQCNx8Mcyjs2Nrmc5JChTfbGNcnV7hiyFjQ&usqp=CAU " group-title="⚽ Deportes ",  direc tv sports (argentina)
 http://imaxplay.net:2082/live/TomasR/WZdKJzknkg/158511.ts
@@ -795,7 +796,8 @@ https://channel.gotv.ar:1936/GOTV/GOTV.stream/chunklist_w1472519235.m3u8
 EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw13Nj_VRnVc6ee0h7BY6iTNbjEDlEOVv4aw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| TELEVISION 33
 https://tuvideoonline.com.ar:3703/stream/play.m3u8
 EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQga_qcTr3vn4F86D03QHrSCRwrNH6GMm54uw&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| CINE.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYMtYkJPt_HQLbRiqJP3MVeyvZys1SV07IQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| ciudad magica
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYMtYkJPt_HQLbRiqJP3MVeyvZys1SV07IQ&usqp=CAU " group-title="⭐️ Argentina",🇦🇷| ciudad magica
 https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
 EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdcbiKuttE-gNkx1hSRlXkSX8ZYI-1XOiR6Q&usqp=CAU" group-title="⭐️ Argentina",🇦🇷| canal 21 misiones
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u
