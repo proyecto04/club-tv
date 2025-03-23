@@ -77,8 +77,8 @@ http://supersonictv.live:8080/live/roelle0923/roelle0923/85864.ts
 http://supersonictv.live:8080/live/roelle0923/roelle0923/85865.ts
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png" group-title=" ",🇪🇦 | ETB 1
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTRE.png" group-title=" ",🇪🇦 | CANAL EXTREMADURA
-http://do.nicdnbackb.xyz:80/live/te1129120/FsBSxADVgAd4/981769.ts?token=H0EMV0RQRl8UVl1XCltTAFMGAVQBAQRTVwBQWlAMBFVcVwYBUllSXQZDFRZAFkBdBw48WFASDV0NBlEOWhQXRhcGFmleXEZfFFcLBAdaARpKQRdYWVUVXgQAUghbDwUBVFVIFEdRAEcMQwgBAFQEGkpBBklAVUUKVFs5XAZOXFABQV5YQlQISRQOV2tXB19ZCAdBCxYBFUgXXhVIQQJbRggPSBRVURAXVxVcFgkMR1QKT0FSW0VZEEdORAJBdnkRSEEBTkNdChZfDlcWCUBGS0RPQVhHb0UBRkMUXQJVUEFGWUYGFRRGCFcZZldcDFxdBRcKXlpDFV4XBEQUQVVaXQ0XC0RoSA0BFFsbBQZRBgtEHg==
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTRE.png" group-title=" ",🇪🇦 | CANAL Extremadura
+http://vipyxyzapi.xyz:8080/VIP01478172475163695/89f7918114c9/750
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB2.png" group-title=" ",🇪🇦 | ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/FDFIC.png" group-title=" ",🇪🇦 | FDF
@@ -154,13 +154,13 @@ http://24tv.tn:8000/live/diego/61664648/200423.ts
 https://128559a99ef24f61b53e3f954af3db8c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_Local/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.logos.noaccesss.me/logo/MOVISTAR/1_0_19_65_12_22D4_EEEE0000_0_0_0.png" group-title=" ", 🇪🇦 |A3series 
-https://chicclopi.site:8443/play/jBsnAp02V2z0o-fAa8S_C8PtYtuuugPghwt1eowksziD8OLUFLOhdtKYQDI-UoPs/ts
+http://directo.ddns.me:2082/rsoto90/7876/2520
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTElhZn9DoX5MAWB2peKpqDSG55j4P1qSGsow&s  " group-title=" ", 🇪🇦 |A3Cine
 http://tv.proyectox.vip:8080/CARLOTerron21/psBYSCLe7E/9617
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCPzluaVMUn_2oNPapqNvV_nCDyOOPxJ2Qqw&usqp=CAU"  group-title=" ", 🇪🇦 |amc
 http://24tv.tn:8000/live/diego/61664648/200466.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHMOvhk91Qa69PvZZNETWDmx1iyEmdvdZbg&usqp=CAU"  group-title=" ", 🇪🇦 |Warner
-http://afbr9.7zz8.xyz:80/live/BDGF31017/GDTF483742E/459778.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHMOvhk91Qa69PvZZNETWDmx1iyEmdvdZbg&usqp=CAU"  group-title=" ", 🇪🇦 Warner
+http://directo.ddns.me:2082/rsoto90/7876/2520
 #EXTINF:-1 tvg-logo=" https://image.pngaaa.com/380/5477380-middle.png  "group-title=" ",🇪🇦 | Rakuten Accion
 http://afbr9.7zz8.xyz:80/live/BDGF31017/GDTF483742E/1011798.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEmf6FWsNh6BLv_SuBoDo9hYQ5eheLnNHRzg&usqp=CAU "group-title=" ",🇪🇦 | Rakuten Comedia
