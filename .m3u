@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sol_de_Mir%C3%B3_%28vectorizado%29.svg/1200px-Sol_de_Mir%C3%B3_%28vectorizado%29.svg.png" group-title="movistar+ 🇪🇦 ",🇪🇦 ESPAÑA 🇪🇦
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sol_de_Mir%C3%B3_%28vectorizado%29.svg/1200px-Sol_de_Mir%C3%B3_%28vectorizado%29.svg.png" group-title="📺movistar+ 🇪🇦 ",🇪🇦 ESPAÑA 🇪🇦
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj22OkdY_YB3RQIyQgvuqqgUS0sXF6F2V9A&usqp=CAU" group-title="  ",🇪🇦 |Supervivientes
 https://appstable.xyz:443/live/dD30PrmqECUM/ddwWqXHpnPBub/7579.m3u8
@@ -180,7 +180,7 @@ https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w240-h480-rw" group-title="⚽ Deportes / La Liga ", M+plus  
+#EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w240-h480-rw" group-title="⚽ Deportes / La Liga ⚽️ ", M+plus  
 https://appstable.xyz:443/live/Radartvol/123456/249610.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5JXi_ksCmW3VL-8GmycB9iWqVK1ltDYJXA&usqp=CAU"group-title=" ", Supercopa
 http://test.esprogregtt.top:8080/es9141738704072002/5e5df6988594/26612
@@ -289,7 +289,7 @@ http://ok4.club:8000/live/vsgo10654/kmGG7FCpmXGy/137382.ts
 
 
 
-#EXTINF:-1 group-title="Deportes⚽️🥎🏀 Acestream" tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR
+#EXTINF:-1 group-title="Deportes Acestream🏀🥎⚽️ " tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png", La Liga BAR
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title=" ", M. LaLiga 
 http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
