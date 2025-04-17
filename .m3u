@@ -313,7 +313,7 @@ acestream://4b9f813f30b4345fe555f9e218d828d76cd6ee88
 acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a
 #EXTINF:-1tvg-logo="https://static.vecteezy.com/ti/gratis-vector/p1/25409579-copa-del-rey-logo-met-naam-symbool-abstract-ontwerp-illustratie-gratis-vector.jpg  "tvg-id="Copa del Rey"group-title=" ", Copa del Rey
 acestream://28205d7c9776b96a1f479c9082e80bd1e18f5afd
-#EXTINF:-1 group-title=" " tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png"group-title=" ⚽️🥎ACESTREAM DEPORTES🏀🏐", La Liga BAR
+#EXTINF:-1 group-title="⚽️🥎ACESTREAM DEPORTES🥎⚽️ " tvg-id="LaLiga TV BAR" tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png, La Liga BAR
 http://127.0.0.1:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title=" ", M. LaLiga 
 http://127.0.0.1:6878/ace/getstream?id=d3de78aebe544611a2347f54d5796bd87f16c92d
