@@ -485,7 +485,11 @@ acestream://4b9f813f30b4345fe555f9e218d828d76cd6ee88
 acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a
 #EXTINF:-1tvg-logo="https://static.vecteezy.com/ti/gratis-vector/p1/25409579-copa-del-rey-logo-met-naam-symbool-abstract-ontwerp-illustratie-gratis-vector.jpg  "tvg-id="Copa del Rey"group-title="  ", Copa del Rey
 acestream://28205d7c9776b96a1f479c9082e80bd1e18f5afd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/$/la1.png" tvg-id="La 1 HD" group-title="ACESTREAM TDT", LA 1 
+
+########№№№##################################################################################################################
+
+
+EXTINF:-1 tvg-logo="https://i.ibb.co/$/la1.png" tvg-id="La 1 HD" group-title="ACESTREAM TDT", LA 1 
 acestream://8bdd29882fa2c2f9fe49e67b102934c9e293f5a5
 EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 
 acestream://
@@ -497,38 +501,38 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-tit
 acestream://
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2
+EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2
 acestream://fc36c7249aef74e3ea579500efdfd7a98d8e9ac5
 EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2
 acestream://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3
+EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3
 acestream://390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3
 acestream://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO
+EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO
 acestream://18f63b299de66029e17dc35e12f6c244e1979a91
 EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO
 acestream://
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO
+EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO
 acestream://6d2af61410d7fb6ed46fc7fe0c199951389bf75b
 EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO
 acestream://
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA
+EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA
 acestream://1c6486082949172d1ffd318db8fb965dd5af7e31
 EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="TDT", LA SEXTA
 acestream://
-#EXTINF:-1 tvg-logo="  "group-title=" TDT", 
+EXTINF:-1 tvg-logo="  "group-title=" TDT", 
 acestream://
-#EXTINF:-1 tvg-logo="  "group-title=" TDT", 
+EXTINF:-1 tvg-logo="  "group-title=" TDT", 
 acestream://
-#EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/b/b6/Acci%C3%B3n_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230721192021"tvg-id="M+ Accion HD" group-title="TDT", M+ ACCION
+EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/b/b6/Acci%C3%B3n_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230721192021"tvg-id="M+ Accion HD" group-title="TDT", M+ ACCION
 acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="TDT", M+ CLASICOS
+EXTINF:-1 tvg-logo=" https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="TDT", M+ CLASICOS
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
-#EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/1200px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" tvg-id="M+ Hits HD" group-title="TDT", M+ Hits
+EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/1200px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" tvg-id="M+ Hits HD" group-title="TDT", M+ Hits
 acestream://2752dee68a7faa9c847216dc22a6821661db891a
-#EXTINF:-1 tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/b/b5/Comedia_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220127154124" tvg-id="M+Comedia "group-title=" TDT", M+ Comedia
+EXTINF:-1 tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/b/b5/Comedia_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220127154124" tvg-id="M+Comedia "group-title=" TDT", M+ Comedia
 acestream://4879825ab2491980e93ea2d8c4d02e095eacf670
 EXTINF:-1 tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/b/b5/Comedia_por_Movistar_Plus%2B.svg/revision/latest/scale-to-width-down/250?cb=20220127154124" tvg-id="M+Comedia "group-title=" TDT", M+ Comedia
 acestream://
