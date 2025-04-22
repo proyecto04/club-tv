@@ -425,6 +425,19 @@ acestream://d6281d4e6310269b416180442a470d23a4a99dc9
 acestream://268289e7a3c5209960b53b4d43c8c65fab294b85
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title=" ", DAZN F1
 acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6
+#EXTINF:-1 tvg-logo="https://static.motor.es/f1/fichas/contenido/carlos-sainz/min280x180/carlos-sainz2024_1708674925.jpg" tvg-id="" group-title=" ", ONBOARD CARLOS SAINZ --> NEW ERA
+acestream://ddc3b1c8297d57d8096ba20edc1da41eb149a167
+#EXTINF:-1 tvg-logo="https://static.motor.es/f1/fichas/contenido/fernando-alonso/min280x180/fernando-alonso2024_1708675566.jpg" tvg-id="" group-title=" ", ONBOARD FERNANDO ALONSO --> NEW ERA
+acestream://a97ccf39516515e7812d5c04dcacdf748f3545e8
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" tvg-id="" group-title=" ", MGPTV | CAMARA DE A BORDO 1 --> NEW ERA
+acestream://2e764a7ad94bcb4e67e82369b7aa982c6b2751b4
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" tvg-id="" group-title=" ", MGPTV | CAMARA DE A BORDO 2 --> NEW ERA
+acestream://b926e6a6ab1d5dc855ce2d3dbeb5e97b9d42b304
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" tvg-id="" group-title=" ", MGPTV | CAMARA DE A BORDO 3 --> NEW ERA
+acestream://9798df57203105309f47b1aa81b6badf00fd0f35
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/4qpD71u.png" tvg-id="" group-title=" ", MGPTV | CAMARA DE A BORDO 4 --> NEW ERA
+acestream://de3ae87e72054cf3ce75268753845c97b931ad58
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQOyOsJq7EbVhV6JR-lzeKx0ZYwY5lI9iAQ&usqp=CAU" tvg-id="Eurosport 1 HD" group-title=" ", EUROSPORT 1
 acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
