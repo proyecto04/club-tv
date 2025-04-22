@@ -486,6 +486,21 @@ acestream://63ad519ec9602ea12f7867cf15914b2537bbf04a
 #EXTINF:-1tvg-logo="https://static.vecteezy.com/ti/gratis-vector/p1/25409579-copa-del-rey-logo-met-naam-symbool-abstract-ontwerp-illustratie-gratis-vector.jpg  "tvg-id="Copa del Rey"group-title="  ", Copa del Rey
 acestream://28205d7c9776b96a1f479c9082e80bd1e18f5afd
 
+
+#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 1"group-title=" NL SPORTS", ESPN 
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 2"group-title=" NL SPORTS", ESPN 2
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 3"group-title=" NL SPORTS", ESPN 4
+acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
+
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",ZIGGO SPORTS 1
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport6" group-title="NL SPORTS",ZIGGO SPORTS 6
+acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
+
 ########№№№##################################################################################################################
 
 
