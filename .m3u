@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sol_de_Mir%C3%B3_%28vectorizado%29.svg/1200px-Sol_de_Mir%C3%B3_%28vectorizado%29.svg.png" group-title="📺 movistar+ 🇪🇦 ",🇪🇦 ESPAÑA 🇪🇦
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sol_de_Mir%C3%B3_%28vectorizado%29.svg/1200px-Sol_de_Mir%C3%B3_%28vectorizado%29.svg.png" group-title="📺 movistar+ 🇪🇦 ",🇪🇦 ESPAÑA 🇪🇦
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj22OkdY_YB3RQIyQgvuqqgUS0sXF6F2V9A&usqp=CAU" group-title="  ",🇪🇦 |Supervivientes
 http://streamprostk.com:2082/live/stkjugta/7493/50586.ts
@@ -352,7 +352,7 @@ acestream://7081a13d9fab9ef28bcee55afeedda9b9bfb4251
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title=" ", M+ DEPORTES 2
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title=" ", M+VAMOS
-acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title=" ", M+VAMOS
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title=" ", M+VAMOS
