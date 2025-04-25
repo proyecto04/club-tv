@@ -364,7 +364,7 @@ acestream://47403b07582b05c2a1eadaf6d1fb6454eda03a77
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title=" ", M+VAMOS
 http://127.0.0.1:6878/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="La 1 HD" group-title=" ", Teledeporte 
-acestream://c693df0cbccedec130e2b31453bdbfb3ccb7a648
+acestream://138b30c93e8a780ac490a4f6d2181c41f3670230
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="La 1 HD" group-title=" ", Teledeporte 
 acestream://3977c21113c3b89d1ee1a2da7ea5d41769b133f9
 
