@@ -1,4 +1,4 @@
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sol_de_Mir%C3%B3_%28vectorizado%29.svg/1200px-Sol_de_Mir%C3%B3_%28vectorizado%29.svg.png" group-title="📺 movistar+ 🇪🇦 ",🇪🇦 ESPAÑA 🇪🇦
+4EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sol_de_Mir%C3%B3_%28vectorizado%29.svg/1200px-Sol_de_Mir%C3%B3_%28vectorizado%29.svg.png" group-title="📺 movistar+ 🇪🇦 ",🇪🇦 ESPAÑA 🇪🇦
 https://dl.dropboxusercontent.com/scl/fi/d22zor5zus3q0hp9fzf7d/1_5098376675729605700.mp4?rlkey=yl6565jfzwi0lbn26hbhn8b6m&dl=0
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfj22OkdY_YB3RQIyQgvuqqgUS0sXF6F2V9A&usqp=CAU" group-title="  ",🇪🇦 |Supervivientes
 http://streamprostk.com:2082/live/stkjugta/7493/50586.ts
@@ -267,7 +267,7 @@ http://195.42.232.18:8080/play/hls/eyJpdiI6InJDSzBLdlpqVGFkWmJ4Si9zWnM1NEE9PSIsI
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7TBhpI8ZJojCRQPstRD2SFUpGNxezaVy4A&s " group-title=" ", Gol TV
 https://appstable.xyz:443/live/dD30PrmqECUM/ddwWqXHpnPBub/10108.m3u8
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s "group-title=" ",Rally tv
-https://appstable.xyz:443/live/dD30PrmqECUM/ddwWqXHpnPBub/193303.m3u8
+http://koryba.ddns.net:80/Hugobc/BFhwVh7AVfuS/175720.ts
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS67JC6vFcM5iFAYsOnZbtiL-OeO2wu2F5YJA&usqp=CAU" group-title=" ", ONETORO
 http://24tv.tn:8000/live/carretero/75180012/200574.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBqa94EQx5As_mr9CtLdcmQwc1_aJzIeV0xuuxEvf4lQ&s" group-title=" ", TOROLÉ T.V.
