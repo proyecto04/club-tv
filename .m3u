@@ -317,7 +317,7 @@ acestream://f31a586422c9244196c810c84b6c85da350318a5
 acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title=" ", M. LaLiga 3
 acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title=" ", DAZN LaLiga
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title=" ", DAZN LaLiga
 acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title=" ", DAZN LaLiga
 acestream://110d441ddc9713a7452588770d2bc85504672f47
