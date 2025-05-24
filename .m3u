@@ -416,7 +416,7 @@ acestream://e7330b2c28af22b081ab509df5aac9672a7e037b
 acestream://1a5e05797b5cbd28b4c529b968b1396613e6ac06
 
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title=" ", DAZN F1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title=" ", DAZN F1
 acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title=" ", DAZN F1
 acestream://515efd8115482bda8d92aa6df9a882a5e5797494
