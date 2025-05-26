@@ -443,9 +443,9 @@ acestream://de3ae87e72054cf3ce75268753845c97b931ad58
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQOyOsJq7EbVhV6JR-lzeKx0ZYwY5lI9iAQ&usqp=CAU" tvg-id="Eurosport 1 HD" group-title=" ", EUROSPORT 1
-acestream://8e8cf5d0da2f30cd3b266344891a18ed6bacaf50
+acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpQOyOsJq7EbVhV6JR-lzeKx0ZYwY5lI9iAQ&usqp=CAU" tvg-id="Eurosport 1 HD" group-title=" ", EUROSPORT 1
-http://127.0.0.1:6878/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
+acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" tvg-id="Eurosport 1 HD" group-title=" ", EUROSPORT 2
 acestream://0358f9db953e5fde91c34d7ed4bc368939b49853
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" tvg-id="Eurosport 1 HD" group-title=" ", EUROSPORT 2
