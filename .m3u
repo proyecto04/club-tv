@@ -180,10 +180,6 @@ https://c494a836bb214f8bb486580f8b23e433.mediatailor.us-east-1.amazonaws.com/v1/
 https://2d8524e2966d4b348b210ec79bdaa943.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-es_RakutenRomance/playlist.m3u8
 
 
-#EXTINF:-1tvg-logo=" https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GHMKASZKH5FATO6MMTEH2EREPY.jpg" group-title="  ",🇪🇦 |mundial de clubs
-http://streamprostk.com:2082/live/stkjugta/7493/50586.ts
-#EXTINF:-1tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GHMKASZKH5FATO6MMTEH2EREPY.jpg" group-title="  ",🇪🇦|mundial de clubs
-http://mu3241218.oknirvana.club:8880/DAANM2918/3M6D5tdtJm/2559
 
 #EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w240-h480-rw" group-title="⚽ Deportes / La Liga ⚽️ ", M+plus  
 http://test.esprogregtt.top:8080/es9141738704072002/5e5df6988594/86
@@ -191,6 +187,11 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW5JXi
 http://test.esprogregtt.top:8080/es9141738704072002/5e5df6988594/26612
 EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuvQfqVBfMghjZgDRMOHqMJC_SzhefqCYMbA&s" group-title="  ", Copa del Rey
 http://test.esprogregtt.top:8080/es9141738704072002/5e5df6988594/26612
+
+#EXTINF:-1tvg-logo=" https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GHMKASZKH5FATO6MMTEH2EREPY.jpg" group-title="  ",🇪🇦 |mundial de clubs
+http://streamprostk.com:2082/live/stkjugta/7493/50586.ts
+#EXTINF:-1tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GHMKASZKH5FATO6MMTEH2EREPY.jpg" group-title="  ",🇪🇦|mundial de clubs
+http://mu3241218.oknirvana.club:8880/DAANM2918/3M6D5tdtJm/2559
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s "group-title=" ",La Liga Sky Sports
 http://streamprostk.com:2082/live/stkjugta/7493/57435.ts
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/240px-LaLiga_logo_2023.svg.png"group-title=" ",la liga 
