@@ -419,13 +419,13 @@ acestream://9a81584b459dbcf71f765463cccd643c59894d74
 acestream://7a90838e67f415e70fd7c9bb87edeb2da5db1725
 #EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title=" ",DAZN EVENTOS 3
 acestream://e7330b2c28af22b081ab509df5aac9672a7e037b
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 1 --> NEW ERA
+EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="" group-title="", DAZN EVENTOS 1 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 2 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="" group-title="", DAZN EVENTOS 2 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="" group-title="EVENTOS", DAZN EVENTOS 3 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="" group-title="", DAZN EVENTOS 3 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=4b048bcfaed7daec454e88f0e29b56756300447d
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png" tvg-id="" group-title="EVENTOS", UFC EVENTOS 1
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png" tvg-id="" group-title="", UFC EVENTOS 1
 http://127.0.0.1:6878/ace/getstream?id=9efe41de7f5dcafc9395591feb959832e09683ff
 
 #EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" ", RALLY TV
