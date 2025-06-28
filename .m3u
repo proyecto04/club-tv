@@ -412,14 +412,7 @@ acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 4 HD" group-title=" ", DAZN 4
 acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title=" ",DAZN EVENTOS 1
-acestream://9a81584b459dbcf71f765463cccd643c59894d74
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title=" ",DAZN EVENTOS 2
-acestream://7a90838e67f415e70fd7c9bb87edeb2da5db1725
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title=" ",DAZN EVENTOS 3
-acestream://e7330b2c28af22b081ab509df5aac9672a7e037b
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="" group-title="", DAZN EVENTOS 1 --> NEW ERA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="" group-title="", DAZN EVENTOS 1 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=176f0b8565a161f87c81a4a250463e3eaf678fb5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="" group-title="", DAZN EVENTOS 2 --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=8bdeb6055da0be3bd1e1977dbf3640408f7d0267
